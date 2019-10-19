@@ -96,6 +96,13 @@ https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/lea
 
 https://rstudio.github.io/leaflet/
 
+## Shiny and R:
+
+https://gallery.shinyapps.io/086-bus-dashboard/
+
+https://shiny.rstudio.com/gallery/
+
+http://shiny.rstudio.com/articles/shinyapps.html
 
 
 ## NASA Data: https://data.nasa.gov/
