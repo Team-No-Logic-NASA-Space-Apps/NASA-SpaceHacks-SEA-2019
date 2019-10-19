@@ -55,6 +55,12 @@ Cool examples to reference:
 http://ssz.fr/places/?fr#ac$//
 
 
+Leaflet and R:
+
+https://www.earthdatascience.org/courses/earth-analytics/get-data-using-apis/leaflet-r/
+
+https://rstudio.github.io/leaflet/
+
 
 
 NASA Data: https://data.nasa.gov/
