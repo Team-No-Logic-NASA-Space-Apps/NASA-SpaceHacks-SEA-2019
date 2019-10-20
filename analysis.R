@@ -98,19 +98,25 @@ testAr
 #pollutionMeanArray 
 
 
-pollutionMeanArray <- NA 
+pollutionMeanArray <- NA
+pollutionMeanArray[1] <-  5
+pollutionMeanArray
 
 for(i in seq(from=0, to=19, by=1)) {
-  print(paste("i is ", 2000 + i))
+  print(paste("i is ", i))
   
-  pollutionMeanArray[i] <- mean(AOD3[YYYY==(2000 + i) & MM >= 0 & MM < 12])
+  pollutionMeanArray[i + 1] <- mean(AOD3[YYYY==(2000 + i) & MM >= 0 & MM < 12])
   #pollutionMeanArray[i]
-  
+  #pollutionMeanArray[i + 1] <- 1
 }
 pollutionMeanArray
 year = 2000:2019
-plot(year, pollutionMeanArray)
+#plot(year, pollutionMeanArray)
+scatter.smooth(year, pollutionMeanArray)
 
+relation <- lm(year~pollutionMeanArray)
+
+result <-  predict(relation,50)
 mean(AOD3[YYYY==(2000) & MM >= 0 & MM < 12])
 mean(AOD3[YYYY==(2001) & MM >= 0 & MM < 12])
 
@@ -121,4 +127,14 @@ list.var<-list(vector.char, matrix.numeric, dataframe.var)
 
 dataframe.var<-data.frame(cbind(School=1, ID=1:5, Test=c("math","read","math","geo","hist")))
 dataframe.var
+
+
+#data <- read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach-EDITED.MYD04.csv", header=T)
+
+#data = read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach.MOD04.csv", header=T)
+datAir = read.csv("AirQualitySystem.csv", header=T)
+
+names(datAir)
+
+
 
