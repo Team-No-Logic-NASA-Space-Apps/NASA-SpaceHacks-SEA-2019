@@ -58,17 +58,67 @@ plot(YYYY[2000:2001], pollutionSeq, las = 1)
 
 pollution2000
 
+
+pollution2019Seq = AOD3[YYYY==2019 & MM >= 0 & MM < 12]
+pollution2019Seq
+
 pollution2019 = mean(AOD3[YYYY==2019 & MM >= 0 & MM < 12])
 pollution2019
 
 A <- array(1: 24, dim = c(3, 4, 2))
 
+
+mat<-matrix(list(), nrow=20, ncol=12)
+
+
 pollutionMean <- array(mean(AOD3[YYYY==2000:2019 & MM >= 0 & MM < 12]))
 plot(year, )
 mean(x[y==0])
 
-for (year in c(2010,2011,2012,2013,2014,2015)){
+for (i in c(1,5)){
   print(paste("The year is", year))
 }
 
+for(i in seq(from=10, to=20, by=1)) {
+  print(paste("The year is", i))
+  
+}
+
+a <- c(4, 6, 8) 
+a[5] <- 9 
+a
+
+testAr <- c(NA)
+testAr[5] <- 9 
+testAr 
+
+#pollutionMeanArray <- NA 
+#pollutionMeanArray 
+#pollutionMeanArray[5] <- 9 
+#pollutionMeanArray 
+
+
+pollutionMeanArray <- NA 
+
+for(i in seq(from=0, to=19, by=1)) {
+  print(paste("i is ", 2000 + i))
+  
+  pollutionMeanArray[i] <- mean(AOD3[YYYY==(2000 + i) & MM >= 0 & MM < 12])
+  #pollutionMeanArray[i]
+  
+}
+pollutionMeanArray
+year = 2000:2019
+plot(year, pollutionMeanArray)
+
+mean(AOD3[YYYY==(2000) & MM >= 0 & MM < 12])
+mean(AOD3[YYYY==(2001) & MM >= 0 & MM < 12])
+
+
+
+
+list.var<-list(vector.char, matrix.numeric, dataframe.var)
+
+dataframe.var<-data.frame(cbind(School=1, ID=1:5, Test=c("math","read","math","geo","hist")))
+dataframe.var
 
