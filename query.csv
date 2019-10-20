@@ -1,0 +1,384 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-10-19T20:31:56.545Z,-18.881,178.0841,37.35,5.7,mww,,38,1.13,0.91,us,us70005w2i,2019-10-19T22:00:15.326Z,"90km SSW of Suva, Fiji",earthquake,4.4,5,0.073,18,reviewed,us,us
+2019-10-19T19:36:43.741Z,-1.3966,150.3547,35.01,4.8,mb,,86,3.055,0.73,us,us70005w25,2019-10-19T21:14:26.040Z,"139km NNW of Kavieng, Papua New Guinea",earthquake,7.6,6.7,0.074,56,reviewed,us,us
+2019-10-19T19:32:43.861Z,-55.5639,-25.8472,44.3,5,mb,,52,6.268,1.05,us,us70005w2c,2019-10-19T20:24:05.040Z,"151km NE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.6,5.4,0.072,61,reviewed,us,us
+2019-10-19T17:28:30.975Z,-37.9841,176.3769,168.5,4.3,mb,,100,0.737,1.41,us,us70005w0t,2019-10-19T18:02:11.040Z,"20km NE of Rotorua, New Zealand",earthquake,7.2,5.9,0.13,17,reviewed,us,us
+2019-10-19T16:39:00.418Z,-61.7318,-54.157,24.23,4.6,mb,,66,2.127,0.75,us,us70005w0q,2019-10-19T18:55:32.040Z,"South Shetland Islands",earthquake,5.4,5.6,0.125,19,reviewed,us,us
+2019-10-19T16:32:44.860Z,-18.4088,-172.0856,10,5,mb,,102,2.15,0.98,us,us70005w0a,2019-10-19T16:48:00.040Z,"202km E of Neiafu, Tonga",earthquake,4.8,1.9,0.121,22,reviewed,us,us
+2019-10-19T14:29:19.693Z,-8.7769,127.4831,10,5.2,mb,,109,3.32,1.34,us,us70005vzl,2019-10-19T14:43:10.040Z,"210km E of Aileu, East Timor",earthquake,5,1.9,0.12,23,reviewed,us,us
+2019-10-19T14:09:23.562Z,-5.725,152.0949,54.04,4.6,mb,,160,1.525,0.87,us,us70005vzk,2019-10-19T17:04:50.040Z,"152km S of Kokopo, Papua New Guinea",earthquake,10.9,9.9,0.125,19,reviewed,us,us
+2019-10-19T11:53:12.729Z,-18.6668,-172.4746,10,5.3,mww,,116,19.195,1.08,us,us70005vy0,2019-10-19T12:35:52.040Z,"159km E of Neiafu, Tonga",earthquake,15.7,1.9,0.073,18,reviewed,us,us
+2019-10-19T11:12:00.184Z,3.52,92.7176,10,4.9,mb,,62,4.546,0.33,us,us70005vxn,2019-10-19T11:38:11.040Z,"Off the west coast of northern Sumatra",earthquake,9.7,1.9,0.088,40,reviewed,us,us
+2019-10-19T09:51:40.125Z,-18.7089,-171.9348,10,4.7,mb,,90,1.935,0.7,us,us70005vx0,2019-10-19T10:53:59.040Z,"215km W of Alofi, Niue",earthquake,10.2,1.8,0.118,22,reviewed,us,us
+2019-10-19T08:40:13.240Z,-18.3126,-171.8344,10,5.3,mww,,93,1.96,0.89,us,us70005vw9,2019-10-19T16:42:49.744Z,"218km WNW of Alofi, Niue",earthquake,7.9,1.9,0.073,18,reviewed,us,us
+2019-10-19T07:57:08.123Z,-17.5896,-69.4975,172.08,4.5,mb,,81,0.016,0.98,us,us70005vw2,2019-10-19T08:20:20.040Z,"58km ESE of Tarata, Peru",earthquake,6.9,6.1,0.131,17,reviewed,us,us
+2019-10-18T23:27:08.128Z,-6.1583,130.8892,96.69,4.4,mb,,75,1.857,1.03,us,us70005vsm,2019-10-18T23:43:40.040Z,"203km NNW of Saumlaki, Indonesia",earthquake,9,7.5,0.17,10,reviewed,us,us
+2019-10-18T22:02:19.397Z,-7.092,129.115,170.84,4.8,mb,,61,2.338,0.93,us,us70005vr7,2019-10-18T22:20:18.040Z,"260km WNW of Saumlaki, Indonesia",earthquake,5.7,8,0.097,33,reviewed,us,us
+2019-10-18T21:18:53.069Z,-18.0149,-174.3901,32.89,5.3,mb,,49,4.363,1.31,us,us70005vqy,2019-10-18T21:42:07.040Z,"82km NNW of Neiafu, Tonga",earthquake,9.1,2,0.038,230,reviewed,us,us
+2019-10-18T13:25:48.996Z,-18.1447,-178.0902,621.1,5.3,mww,,79,3.693,1,us,us70005vfy,2019-10-18T19:18:31.040Z,"284km NNE of Ndoi Island, Fiji",earthquake,13,8.4,0.075,17,reviewed,us,us
+2019-10-18T13:18:43.918Z,4.8286,125.2934,63.46,5.1,mb,,108,4.53,1.12,us,us70005vfq,2019-10-18T14:37:11.495Z,"66km SSW of Sarangani, Philippines",earthquake,8.1,8.1,0.098,34,reviewed,us,us
+2019-10-18T10:54:12.525Z,-15.3441,-172.3076,10,4.9,mb,,107,1.516,0.9,us,us70005vei,2019-10-18T11:49:02.040Z,"158km SSW of Lotofaga, Samoa",earthquake,8.4,1.9,0.094,35,reviewed,us,us
+2019-10-18T07:45:18.327Z,-18.766,-172.7931,10,5.1,mb,,68,2.73,0.77,us,us70005vc5,2019-10-18T08:03:31.040Z,"126km E of Neiafu, Tonga",earthquake,8.5,1.8,0.099,33,reviewed,us,us
+2019-10-18T05:58:12.288Z,-7.9343,115.6172,245.23,4.3,mb,,62,1.544,0.97,us,us70005vaw,2019-10-18T06:42:49.040Z,"33km NNE of Sukadana, Indonesia",earthquake,9.8,8,0.133,16,reviewed,us,us
+2019-10-18T02:28:12.381Z,-29.3825,-69.7567,104.76,4.5,mb,,47,0.661,0.81,us,us70005v95,2019-10-18T02:54:10.040Z,"116km NE of Vicuna, Chile",earthquake,5.1,5.4,0.108,25,reviewed,us,us
+2019-10-17T19:34:06.894Z,-2.9265,141.6489,15.89,5.5,mww,,17,5.779,0.72,us,us70005v4h,2019-10-18T19:36:22.897Z,"47km SE of Vanimo, Papua New Guinea",earthquake,7.3,3.2,0.071,19,reviewed,us,us
+2019-10-17T17:12:41.566Z,-6.5179,130.0861,170.06,4.5,mb,,90,1.888,0.89,us,us70005v2r,2019-10-17T21:02:40.040Z,"208km NW of Saumlaki, Indonesia",earthquake,9.4,5,0.124,19,reviewed,us,us
+2019-10-17T16:58:28.646Z,-46.3998,-69.0574,10,4.4,mb,,82,2.264,0.72,us,us70005v2p,2019-10-18T19:42:14.877Z,"18km NNW of Las Heras, Argentina",earthquake,4.4,1.9,0.12,23,reviewed,us,us
+2019-10-17T13:44:29.110Z,-34.3184,-72.382,10,4.6,mb,,169,1.042,0.88,us,us70005uzj,2019-10-18T20:42:52.040Z,"99km WNW of Santa Cruz, Chile",earthquake,3.4,2,0.193,8,reviewed,us,us
+2019-10-17T06:35:03.054Z,-23.7452,-68.9941,92.41,4.2,mwr,,43,1.088,0.83,us,us70005uw2,2019-10-17T07:04:58.040Z,"121km SW of San Pedro de Atacama, Chile",earthquake,5.9,5.9,0.05,39,reviewed,us,us
+2019-10-17T03:26:43.155Z,1.7728,-90.813,10,4.8,mb,,161,2.487,1.01,us,us70005uv3,2019-10-17T03:42:12.040Z,"282km N of Puerto Ayora, Ecuador",earthquake,7.1,1.9,0.037,227,reviewed,us,us
+2019-10-17T01:56:32.706Z,3.3642,126.8324,35,4.7,mb,,129,2.629,0.79,us,us70005uuq,2019-10-17T02:17:50.040Z,"223km NW of Tobelo, Indonesia",earthquake,12.9,2,0.166,11,reviewed,us,us
+2019-10-17T01:28:56.525Z,5.1682,126.2273,75.31,5,mww,,104,1.996,0.88,us,us70005uuk,2019-10-17T02:09:25.663Z,"88km ESE of Sarangani, Philippines",earthquake,4,7.4,0.078,16,reviewed,us,us
+2019-10-16T23:59:53.100Z,-47.796,-9.8532,10,5,mb,,107,24.176,0.78,us,us70005utz,2019-10-17T00:17:39.040Z,"Southern Mid-Atlantic Ridge",earthquake,8.6,1.8,0.089,40,reviewed,us,us
+2019-10-16T21:10:18.099Z,-7.5328,127.8796,10,4.9,mb,,32,3.417,1.1,us,us70005usg,2019-10-16T22:12:13.040Z,"278km ENE of Dili, East Timor",earthquake,6.2,1.9,0.07,65,reviewed,us,us
+2019-10-16T20:31:59.422Z,-40.3222,-91.8054,10,4.7,mb,,109,14.712,0.74,us,us70005us5,2019-10-16T22:43:02.040Z,"West Chile Rise",earthquake,8.4,1.9,0.05,121,reviewed,us,us
+2019-10-16T19:17:19.670Z,-29.1917,-12.9564,10,4.8,mb,,83,27.778,0.54,us,us70005uri,2019-10-16T19:37:54.040Z,"Southern Mid-Atlantic Ridge",earthquake,12.6,1.9,0.072,60,reviewed,us,us
+2019-10-16T16:18:41.804Z,-6.3014,130.8666,109.74,4.5,mb,,67,1.724,1.02,us,us70005up9,2019-10-16T21:35:43.040Z,"188km NNW of Saumlaki, Indonesia",earthquake,8.3,7.3,0.081,45,reviewed,us,us
+2019-10-16T13:51:28.590Z,-22.3961,-66.1111,256.17,4.5,mb,,58,1.988,0.7,us,us70005umc,2019-10-16T14:07:26.040Z,"55km NW of Abra Pampa, Argentina",earthquake,9,10.7,0.121,20,reviewed,us,us
+2019-10-16T07:30:41.677Z,1.3303,97.1682,31.42,4.6,mb,,203,0.408,0.54,us,us70005uji,2019-10-16T07:55:26.040Z,"154km SE of Sinabang, Indonesia",earthquake,8.9,4.9,0.117,22,reviewed,us,us
+2019-10-16T02:25:29.324Z,-3.3571,130.6156,17.04,4.7,mb,,80,4.645,1.23,us,us70005ui7,2019-10-16T02:44:07.040Z,"188km E of Amahai, Indonesia",earthquake,9,5,0.093,35,reviewed,us,us
+2019-10-16T02:18:21.265Z,1.3233,96.9846,10,4.9,mb,,151,0.591,0.94,us,us70005ui6,2019-10-16T02:38:25.040Z,"144km SSE of Sinabang, Indonesia",earthquake,6.7,1.9,0.078,52,reviewed,us,us
+2019-10-15T22:41:45.139Z,-17.7633,-178.6436,563.47,4.5,mb,,72,3.148,0.81,us,us70005uh4,2019-10-18T04:42:26.040Z,"257km SE of Lambasa, Fiji",earthquake,11.8,7,0.064,72,reviewed,us,us
+2019-10-15T19:56:47.470Z,4.7673,-82.5734,10,5.1,mww,,75,3.694,0.77,us,us70005ufv,2019-10-17T20:41:38.040Z,"South of Panama",earthquake,4.3,1.8,0.056,31,reviewed,us,us
+2019-10-15T18:56:48.714Z,1.2136,96.9161,10,4.7,mb,,111,0.665,0.94,us,us70005uf8,2019-10-16T16:56:58.040Z,"152km SSE of Sinabang, Indonesia",earthquake,5.5,1.9,0.078,49,reviewed,us,us
+2019-10-15T17:36:01.170Z,-20.1519,-173.3372,10,4.9,mb,,75,3.387,1.13,us,us70005uev,2019-10-16T15:48:11.040Z,"112km ESE of Pangai, Tonga",earthquake,9.7,1.8,0.049,139,reviewed,us,us
+2019-10-15T17:17:06.504Z,-7.2047,129.1602,124.53,4.4,mb,,116,2.256,1.35,us,us70005ueg,2019-10-16T14:59:40.040Z,"251km WNW of Saumlaki, Indonesia",earthquake,8,8.1,0.092,41,reviewed,us,us
+2019-10-15T15:37:58.403Z,-5.595,151.9533,35,4.7,mb,,93,1.41,0.68,us,us70005ucq,2019-10-15T16:10:44.040Z,"141km SSW of Kokopo, Papua New Guinea",earthquake,5.7,1.9,0.115,23,reviewed,us,us
+2019-10-15T14:42:03.338Z,-57.0406,-25.0924,10,4.9,mb,,129,7.013,0.7,us,us70005ubv,2019-10-15T20:38:51.040Z,"134km ESE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,7.2,1.9,0.095,35,reviewed,us,us
+2019-10-15T10:45:13.814Z,-14.3907,166.6176,10,5.1,mb,,43,1.193,0.8,us,us70005uat,2019-10-15T11:37:20.040Z,"86km NNW of Port-Olry, Vanuatu",earthquake,8.3,1.9,0.083,47,reviewed,us,us
+2019-10-15T03:53:26.113Z,-55.659,-26.8873,10,4.9,mb,,127,5.699,1.09,us,us70005u90,2019-10-15T04:40:19.040Z,"117km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,13.4,1.9,0.095,35,reviewed,us,us
+2019-10-15T03:00:14.509Z,-4.4564,101.0896,10,5.1,mb,,104,1.863,0.92,us,us70005u8l,2019-10-15T03:17:15.040Z,"149km WSW of Bengkulu, Indonesia",earthquake,7.2,1.9,0.073,62,reviewed,us,us
+2019-10-15T01:37:35.901Z,5.6985,126.7143,75.93,4.5,mb,,172,1.768,0.49,us,us70005u8b,2019-10-15T01:54:39.040Z,"94km SE of Pondaguitan, Philippines",earthquake,11.8,9.1,0.14,15,reviewed,us,us
+2019-10-14T23:18:45.179Z,-6.2801,130.1894,154.05,4.5,mb,,90,2.018,1.23,us,us70005u7u,2019-10-14T23:42:41.040Z,"222km NW of Saumlaki, Indonesia",earthquake,5.3,9.3,0.135,16,reviewed,us,us
+2019-10-14T22:23:52.684Z,-4.5312,101.1508,10,5.9,mww,,39,1.807,0.71,us,us70005u76,2019-10-16T16:42:12.040Z,"147km WSW of Bengkulu, Indonesia",earthquake,6.7,1.8,0.071,19,reviewed,us,us
+2019-10-14T22:00:10.537Z,-21.3263,-173.9835,10,5.2,mb,,66,4.418,0.96,us,us70005u77,2019-10-14T22:48:48.040Z,"100km E of `Ohonua, Tonga",earthquake,10.9,1.8,0.041,199,reviewed,us,us
+2019-10-14T21:33:20.785Z,-55.8242,-27.1124,10,5.6,mb,,68,5.606,0.81,us,us70005u6q,2019-10-16T17:35:26.040Z,"97km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.7,1.9,0.056,113,reviewed,us,us
+2019-10-14T21:26:31.539Z,-8.9799,128.547,10,4.4,mb,,57,2.896,1.2,us,us70005u6h,2019-10-14T22:58:32.040Z,"Timor Sea",earthquake,6.4,1.6,0.19,8,reviewed,us,us
+2019-10-14T21:07:13.143Z,-6.0186,146.9634,108.33,5,mb,,44,3.369,0.73,us,us70005u63,2019-10-14T21:24:30.040Z,"77km N of Lae, Papua New Guinea",earthquake,7.8,7.3,0.1,32,reviewed,us,us
+2019-10-14T19:09:37.691Z,0.8868,97.0661,10,4.3,mb,,138,0.656,1.07,us,us70005u54,2019-10-14T19:30:59.040Z,"192km SSE of Sinabang, Indonesia",earthquake,7.5,1.9,0.138,15,reviewed,us,us
+2019-10-14T11:34:01.945Z,-8.2315,109.3441,83.72,4.5,mb,,102,1.209,1.02,us,us70005u2b,2019-10-18T11:23:48.040Z,"66km SSE of Adipala, Indonesia",earthquake,7.1,7.3,0.096,32,reviewed,us,us
+2019-10-14T05:28:32.249Z,-25.4707,179.3451,520.86,4.5,mb,,75,4.473,0.95,us,us70005u0n,2019-10-14T05:49:28.040Z,"South of the Fiji Islands",earthquake,12.2,7.9,0.069,62,reviewed,us,us
+2019-10-14T01:44:13.651Z,-31.9512,179.8611,325.22,4.2,mb,,92,3.302,1.09,us,us70005tzr,2019-10-14T22:32:55.040Z,"130km WSW of L'Esperance Rock, New Zealand",earthquake,11.4,8.3,0.118,20,reviewed,us,us
+2019-10-13T21:57:35.736Z,-30.2506,-178.011,35,5.2,mb,,65,1.004,0.99,us,us70005ty8,2019-10-13T22:47:18.040Z,"109km S of Raoul Island, New Zealand",earthquake,9.5,1.9,0.04,210,reviewed,us,us
+2019-10-13T20:02:43.041Z,-20.6104,-178.7873,612.93,4.6,mb,,139,4.128,1.13,us,us70005tx5,2019-10-13T20:20:22.040Z,"10km WNW of Ndoi Island, Fiji",earthquake,11.4,10.6,0.085,41,reviewed,us,us
+2019-10-13T19:46:50.319Z,-26.3866,179.7654,498.82,4.4,mb,,156,3.503,0.93,us,us70005txc,2019-10-13T21:03:14.040Z,"South of the Fiji Islands",earthquake,19,16.6,0.115,22,reviewed,us,us
+2019-10-13T19:35:16.431Z,-0.1762,124.81,74.63,5,mww,,50,2.212,1.2,us,us70005twu,2019-10-13T19:48:44.040Z,"106km SSE of Lolayan, Indonesia",earthquake,7.4,7.8,0.073,18,reviewed,us,us
+2019-10-13T12:21:07.964Z,-44.8783,35.0514,10,5.1,mb,,59,11.869,0.92,us,us70005tvg,2019-10-16T21:31:22.040Z,"Prince Edward Islands region",earthquake,10,1.9,0.086,44,reviewed,us,us
+2019-10-13T06:09:02.441Z,-56.3715,-26.275,15.22,5.5,mb,,33,6.193,0.94,us,us70005ttv,2019-10-16T21:21:21.040Z,"67km ENE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,10.7,3.5,0.047,154,reviewed,us,us
+2019-10-13T03:38:23.464Z,-20.3388,-173.3537,10,4.8,mb,,106,3.463,1.12,us,us70005tt7,2019-10-13T04:02:47.040Z,"120km ESE of Pangai, Tonga",earthquake,12.5,1.9,0.116,23,reviewed,us,us
+2019-10-13T03:09:11.989Z,-25.5942,-177.3573,79,4.5,mb,,140,3.671,0.95,us,us70005tt8,2019-10-13T04:12:55.040Z,"South of the Fiji Islands",earthquake,13.5,7.1,0.094,33,reviewed,us,us
+2019-10-12T23:17:59.624Z,-15.7581,-69.8312,249.32,4.2,mb,,139,1.718,1.07,us,us70005ts7,2019-10-13T00:07:07.040Z,"15km W of Taquile, Peru",earthquake,10.3,8.4,0.152,12,reviewed,us,us
+2019-10-12T20:40:38.243Z,-6.7804,146.5249,10,4.9,mb,,104,2.682,0.88,us,us70005tre,2019-10-12T21:16:55.040Z,"48km NNW of Bulolo, Papua New Guinea",earthquake,7.8,1.7,0.086,43,reviewed,us,us
+2019-10-12T18:20:28.804Z,-4.8115,28.0962,10,4.6,mb,,60,4.944,0.75,us,us70005tqh,2019-10-16T14:05:32.040Z,"137km ENE of Kongolo, Democratic Republic of the Congo",earthquake,8.3,1.8,0.075,59,reviewed,us,us
+2019-10-12T17:30:59.614Z,2.4392,128.8003,42.07,4.5,mb,,111,2.19,0.59,us,us70005tq9,2019-10-16T13:59:31.322Z,"117km NE of Tobelo, Indonesia",earthquake,3.6,8.9,0.095,36,reviewed,us,us
+2019-10-12T15:51:07.058Z,5.65,126.5396,87.18,4.5,mb,,157,1.703,0.8,us,us70005tpv,2019-10-12T16:46:30.040Z,"88km SSE of Pondaguitan, Philippines",earthquake,10.4,5.3,0.136,16,reviewed,us,us
+2019-10-12T14:33:00.848Z,-3.6329,139.759,55.75,4.9,mb,,116,7.531,1.17,us,us70005tpg,2019-10-12T15:01:33.040Z,"143km SW of Abepura, Indonesia",earthquake,9.5,9.7,0.122,21,reviewed,us,us
+2019-10-12T13:33:55.919Z,-5.0301,130.811,63.44,4.5,mb,,79,2.54,0.73,us,us70005tp2,2019-10-12T15:06:19.040Z,"226km WNW of Tual, Indonesia",earthquake,13.5,9.7,0.128,18,reviewed,us,us
+2019-10-12T09:55:15.725Z,-5.9891,131.4814,35,4.3,mb,,122,1.988,1.24,us,us70005tnd,2019-10-12T10:48:17.040Z,"144km WSW of Tual, Indonesia",earthquake,4,2,0.148,13,reviewed,us,us
+2019-10-12T02:35:40.461Z,-5.1453,152.6321,55.06,5.2,mb,,44,1.056,1.09,us,us70005tld,2019-10-12T02:51:12.040Z,"87km SSW of Taron, Papua New Guinea",earthquake,7.9,7.4,0.08,51,reviewed,us,us
+2019-10-12T01:14:51.191Z,-20.959,-177.4857,396.95,4,mb,,107,5.287,0.67,us,us70005vk9,2019-10-18T22:07:40.040Z,"130km ESE of Ndoi Island, Fiji",earthquake,15.9,11.4,0.129,16,reviewed,us,us
+2019-10-12T01:07:07.150Z,-7.1412,129.3565,156.74,4.7,mb,,79,2.099,0.9,us,us70005tl5,2019-10-12T01:30:06.040Z,"234km WNW of Saumlaki, Indonesia",earthquake,6.9,8.2,0.11,25,reviewed,us,us
+2019-10-11T18:52:40.380Z,-18.6449,-172.5914,10,5.2,mww,,81,2.559,0.97,us,us70005ti3,2019-10-12T15:03:16.040Z,"146km E of Neiafu, Tonga",earthquake,7.4,1.8,0.089,12,reviewed,us,us
+2019-10-11T17:23:03.975Z,-24.2442,-66.9727,173.92,4.7,mwr,,76,1.696,0.92,us,us70005thk,2019-10-12T14:39:35.040Z,"66km W of San Antonio de los Cobres, Argentina",earthquake,8.5,6.7,,,reviewed,us,guc
+2019-10-11T15:18:37.736Z,-31.5874,179.7132,404.25,4.3,mb,,138,3.098,0.79,us,us70005ter,2019-10-11T16:22:37.040Z,"132km W of L'Esperance Rock, New Zealand",earthquake,13.6,8.9,0.134,16,reviewed,us,us
+2019-10-11T15:01:50.086Z,-4.6882,125.3281,485.95,4.7,mb,,55,4.431,0.86,us,us70005tdr,2019-10-11T15:15:03.040Z,"165km SW of Leksula, Indonesia",earthquake,12.6,11.6,0.113,24,reviewed,us,us
+2019-10-11T10:59:48.252Z,-2.5477,-77.0031,119,4.3,mb,,81,2.253,0.68,us,us70005tcw,2019-10-11T11:18:16.040Z,"126km ESE of Macas, Ecuador",earthquake,5.3,9.4,0.093,33,reviewed,us,us
+2019-10-11T06:11:50.096Z,-30.5839,-72.2018,10,4.3,mb,,132,0.496,0.5,us,us70005tbi,2019-10-12T05:04:51.040Z,"96km W of Ovalle, Chile",earthquake,5.6,1.9,0.218,6,reviewed,us,us
+2019-10-11T02:55:41.375Z,-29.222,-71.8549,19.95,4.9,mb,,98,0.877,1.01,us,us70005tad,2019-10-11T03:40:45.299Z,"95km NNW of Coquimbo, Chile",earthquake,6,2.9,0.071,63,reviewed,us,us
+2019-10-10T22:35:11.391Z,-4.4607,147.533,10,4.5,mb,,64,2.407,0.63,us,us70005t9b,2019-10-13T01:14:36.040Z,"210km ENE of Madang, Papua New Guinea",earthquake,7.8,1.9,0.097,31,reviewed,us,us
+2019-10-10T21:26:26.700Z,-46.9218,-10.3997,10,5.2,mb,,72,18.05,0.62,us,us70005t81,2019-10-11T04:19:02.040Z,"Southern Mid-Atlantic Ridge",earthquake,11.7,1.8,0.054,113,reviewed,us,us
+2019-10-10T18:32:14.421Z,-35.235,-179.3542,10,4.8,mb,,192,2.992,0.9,us,us70005t5n,2019-10-10T22:42:46.332Z,"East of the North Island of New Zealand",earthquake,4.7,1.9,0.128,19,reviewed,us,us
+2019-10-10T17:26:42.163Z,-16.0937,-73.3867,61.95,4.5,mb,,130,4.025,0.72,us,us70005t3y,2019-10-10T22:22:57.040Z,"92km NW of Camana, Peru",earthquake,9.5,7.9,0.09,36,reviewed,us,us
+2019-10-10T16:43:30.700Z,-18.613,168.4118,42.21,4.5,mb,,143,3.353,0.77,us,us70005t3s,2019-10-11T16:33:05.040Z,"97km S of Port-Vila, Vanuatu",earthquake,10.1,3.3,0.099,32,reviewed,us,us
+2019-10-10T14:16:40.095Z,-6.845,129.5696,146.94,5.1,mb,,51,2.053,1.08,us,us70005t0t,2019-10-10T14:29:48.040Z,"228km WNW of Saumlaki, Indonesia",earthquake,7.6,6.6,0.125,21,reviewed,us,us
+2019-10-10T04:39:48.226Z,-3.6504,128.2157,54.43,5,mb,,55,4.091,1.2,us,us70005swb,2019-10-10T14:45:32.708Z,"4km WSW of Passo, Indonesia",earthquake,6.9,6.9,0.075,57,reviewed,us,us
+2019-10-10T03:18:04.738Z,-57.9728,157.4102,10,5.4,mb,,114,13.11,1.04,us,us70005svg,2019-10-11T21:41:04.040Z,"Macquarie Island region",earthquake,4.7,2,0.105,31,reviewed,us,us
+2019-10-09T21:26:09.009Z,-15.3018,-172.828,10,5.1,mb,,77,1.717,1.63,us,us70005ssi,2019-10-09T22:21:01.040Z,"122km NE of Hihifo, Tonga",earthquake,7.2,1.4,0.068,70,reviewed,us,us
+2019-10-09T21:16:28.116Z,-35.1791,-179.1443,10,4.4,mb,,177,3.144,0.91,us,us70005srj,2019-10-09T21:47:50.793Z,"East of the North Island of New Zealand",earthquake,5.7,2,0.149,13,reviewed,us,us
+2019-10-09T20:22:51.431Z,-35.0663,-179.3324,10,5.6,mww,,58,3.136,1.04,us,us70005sqk,2019-10-17T22:27:59.214Z,"East of the North Island of New Zealand",earthquake,9.1,1.8,0.05,39,reviewed,us,us
+2019-10-09T10:00:11.265Z,-17.7625,-178.7008,563.28,4.6,mb,,73,3.093,0.9,us,us70005sid,2019-10-09T10:17:54.040Z,"252km SE of Lambasa, Fiji",earthquake,12.8,9.2,0.076,52,reviewed,us,us
+2019-10-09T05:49:51.598Z,-0.8727,148.4459,10,4.7,mb,,103,1.586,0.78,us,us70005sgg,2019-10-09T06:33:17.040Z,"182km NE of Lorengau, Papua New Guinea",earthquake,9.9,1.9,0.102,29,reviewed,us,us
+2019-10-09T05:44:46.324Z,-57.9316,-139.1829,10,5.5,mww,,148,26.755,0.48,us,us70005sih,2019-10-10T05:46:57.954Z,"Pacific-Antarctic Ridge",earthquake,7.1,1.9,0.075,17,reviewed,us,us
+2019-10-08T14:13:47.785Z,-7.3911,129.4948,133.29,4.1,mb,,142,1.882,0.74,us,us70005upv,2019-10-17T14:45:24.040Z,"210km WNW of Saumlaki, Indonesia",earthquake,8.1,14.4,0.262,4,reviewed,us,us
+2019-10-08T14:04:08.853Z,-27.2004,-71.1177,35,4.2,mb,,185,0.696,0.73,us,us70005rxg,2019-10-17T14:35:34.040Z,"79km WNW of Copiapo, Chile",earthquake,3.7,2,0.372,2,reviewed,us,us
+2019-10-08T13:10:47.008Z,5.0382,127.3739,158.78,4.4,mb,,137,2.694,0.66,us,us70005upt,2019-10-17T14:23:35.040Z,"197km SE of Pondaguitan, Philippines",earthquake,10.5,10,0.138,15,reviewed,us,us
+2019-10-08T12:45:37.261Z,-10.3417,161.4781,53.19,5,mb,,30,1.754,0.72,us,us70005rx7,2019-10-08T13:36:48.040Z,"50km WNW of Kirakira, Solomon Islands",earthquake,4.8,6.8,0.038,219,reviewed,us,us
+2019-10-08T06:18:04.056Z,-18.083,-69.4218,134.69,4.9,mb,,111,0.263,1.41,us,us70005rv1,2019-10-08T12:25:37.319Z,"19km NE of Putre, Chile",earthquake,7.1,5.6,0.051,123,reviewed,us,us
+2019-10-08T05:09:08.152Z,-61.0738,-53.8817,10,4.9,mb,,83,2.562,1.28,us,us70005run,2019-10-08T05:30:26.040Z,"South Shetland Islands",earthquake,7.7,1.9,0.082,47,reviewed,us,us
+2019-10-07T22:50:40.509Z,-3.6008,102.1721,78.41,4.4,mb,,183,1.086,1.25,us,us70005rsy,2019-10-17T23:25:25.040Z,"24km NNW of Bengkulu, Indonesia",earthquake,5,10.2,0.148,13,reviewed,us,us
+2019-10-07T21:11:37.249Z,4.6166,96.4186,25.18,4.5,mb,,135,0.804,0.63,us,us70005rq1,2019-10-17T04:38:08.040Z,"62km NNE of Meulaboh, Indonesia",earthquake,6.4,6,0.124,19,reviewed,us,us
+2019-10-07T20:09:33.991Z,-6.0251,102.2783,24.77,5.1,mww,,49,1.785,0.84,us,us70005rnj,2019-10-16T17:42:57.040Z,"197km SW of Kuripan, Indonesia",earthquake,6.7,3.9,0.089,12,reviewed,us,us
+2019-10-07T18:37:59.006Z,-0.3699,99.0329,76.23,4.6,mb,,87,2.122,0.65,us,us70005rmk,2019-10-07T21:13:12.040Z,"83km N of Sikabaluan, Indonesia",earthquake,8.4,6.7,0.109,25,reviewed,us,us
+2019-10-07T17:20:19.880Z,4.3713,127.2392,10,4.2,mb,,195,3.577,1.02,us,us70005up4,2019-10-16T23:23:18.040Z,"227km ESE of Sarangani, Philippines",earthquake,12.3,1.8,0.2,7,reviewed,us,us
+2019-10-07T15:20:43.869Z,-44.1902,38.8875,10,4.6,mb,,102,14.612,1.16,us,us70005rl8,2019-10-16T19:38:49.040Z,"Prince Edward Islands region",earthquake,10.9,1.9,0.109,25,reviewed,us,us
+2019-10-07T14:22:12.293Z,-48.8816,123.8037,10,4.8,mb,,129,16.682,0.82,us,us70005rkt,2019-10-16T18:44:10.040Z,"Western Indian-Antarctic Ridge",earthquake,13.8,1.9,0.111,25,reviewed,us,us
+2019-10-07T14:12:48.530Z,1.0749,126.655,21.88,4.2,mb,,86,0.772,1.01,us,us70005unm,2019-10-16T18:23:34.040Z,"85km WNW of Kota Ternate, Indonesia",earthquake,8.6,6.4,0.159,11,reviewed,us,us
+2019-10-07T13:18:28.419Z,-21.3093,-178.8614,573.86,4.3,mb,,120,4.587,0.51,us,us70005unl,2019-10-16T16:58:32.040Z,"74km SSW of Ndoi Island, Fiji",earthquake,12.8,5.7,0.085,39,reviewed,us,us
+2019-10-07T04:50:47.050Z,-23.0271,-66.5352,193.87,4.8,mb,,65,1.516,1.04,us,us70005ric,2019-10-17T04:04:01.040Z,"89km WNW of El Aguilar, Argentina",earthquake,11.3,6.2,0.029,368,reviewed,us,us
+2019-10-07T03:46:47.693Z,-19.9715,169.4501,110.96,4.7,mb,,111,3.224,1.12,us,us70005rhy,2019-10-17T03:27:41.040Z,"50km SSE of Isangel, Vanuatu",earthquake,9.7,5.9,0.075,54,reviewed,us,us
+2019-10-07T03:29:48.380Z,-38.2416,177.1453,43.38,4.9,mww,,78,0.395,0.83,us,us70005rhr,2019-10-17T03:26:41.466Z,"21km SW of Opotiki, New Zealand",earthquake,10,4.9,0.069,20,reviewed,us,us
+2019-10-07T00:16:58.485Z,-59.7842,-26.2635,35,5.3,mb,,37,7.836,0.79,us,us70005rgp,2019-10-07T01:55:00.040Z,"84km S of Bristol Island, South Sandwich Islands",earthquake,9,1.9,0.05,136,reviewed,us,us
+2019-10-06T17:13:40.048Z,-59.1445,-26.2563,130.28,5,mb,,83,7.441,0.57,us,us70005rcr,2019-10-06T17:32:47.040Z,"19km SE of Bristol Island, South Sandwich Islands",earthquake,11.4,8,0.078,53,reviewed,us,us
+2019-10-06T16:19:16.404Z,-22.7821,-70.8763,15.39,4.3,mb,,169,0.625,0.92,us,us70005rcg,2019-10-15T19:36:42.040Z,"103km SW of Tocopilla, Chile",earthquake,6,2.8,0.377,3,reviewed,us,us
+2019-10-06T16:09:01.134Z,-20.4112,-178.3952,533.37,4.4,mb,,95,4.279,0.76,us,us70005udu,2019-10-15T19:27:19.040Z,"41km NE of Ndoi Island, Fiji",earthquake,11.1,8.6,0.105,26,reviewed,us,us
+2019-10-06T15:51:13.725Z,-22.9355,-69.253,69.2,4,ml,,82,0.372,0.75,us,us70005rcc,2019-10-06T16:21:15.040Z,"61km SSW of Calama, Chile",earthquake,5,12.9,0.059,38,reviewed,us,us
+2019-10-06T15:50:34.807Z,0.9728,126.6418,46.61,4.6,mb,,79,0.751,0.64,us,us70005rc7,2019-10-15T19:13:05.040Z,"83km WNW of Kota Ternate, Indonesia",earthquake,8.1,8.2,0.098,31,reviewed,us,us
+2019-10-06T15:30:16.808Z,3.832,124.0537,413.7,4,mb,,85,4.241,0.81,us,us70005udt,2019-10-15T19:10:05.040Z,"233km SW of Sarangani, Philippines",earthquake,13.5,10.8,0.122,18,reviewed,us,us
+2019-10-06T15:05:36.713Z,-20.4908,-178.8776,627.91,4.2,mb,,91,3.985,0.77,us,us70005uds,2019-10-15T18:56:02.040Z,"25km NW of Ndoi Island, Fiji",earthquake,14.1,9.6,0.089,35,reviewed,us,us
+2019-10-06T12:45:05.799Z,-5.9678,130.4747,98.59,4.3,mb,,127,2.162,0.74,us,us70005raz,2019-10-06T13:09:23.040Z,"238km NNW of Saumlaki, Indonesia",earthquake,4.4,10.3,0.148,13,reviewed,us,us
+2019-10-06T10:41:17.727Z,4.0851,97.152,10,4.4,mb,,140,1.154,0.65,us,us70005r9m,2019-10-06T11:28:27.040Z,"100km WSW of Langsa, Indonesia",earthquake,6.5,1.9,0.179,9,reviewed,us,us
+2019-10-06T10:40:55.830Z,-21.9017,-68.5677,112.38,5.9,mww,,67,0.635,1.02,us,us70005r9l,2019-10-12T07:33:39.358Z,"73km NNE of Calama, Chile",earthquake,6.4,6,0.073,18,reviewed,us,us
+2019-10-06T10:00:36.701Z,-39.1244,174.7909,228.71,4.3,mb,,43,0.612,0.61,us,us70005r9c,2019-10-06T10:57:03.701Z,"51km ESE of Waitara, New Zealand",earthquake,7.8,7.3,0.123,19,reviewed,us,us
+2019-10-05T20:06:36.370Z,-5.6866,142.4403,10,4.4,mb,,102,5.96,1.03,us,us70005r58,2019-10-09T05:03:19.040Z,"87km WSW of Porgera, Papua New Guinea",earthquake,10.2,1.9,0.12,20,reviewed,us,us
+2019-10-05T18:57:58.273Z,-32.5078,-71.7258,57.8,4.2,mwr,,73,0.365,0.59,us,us70005r4r,2019-10-08T17:33:02.534Z,"46km W of La Ligua, Chile",earthquake,5.2,4.9,0.066,22,reviewed,us,us
+2019-10-05T17:11:08.088Z,5.6665,126.5312,75.8,4.6,mb,,92,1.684,0.83,us,us70005r4c,2019-10-08T15:51:10.040Z,"86km SSE of Pondaguitan, Philippines",earthquake,3.1,6.5,0.068,65,reviewed,us,us
+2019-10-05T14:28:49.577Z,-6.3821,147.7239,73.02,5.1,mww,,41,3.054,0.85,us,us70005r30,2019-10-05T14:44:13.040Z,"29km NNW of Finschhafen, Papua New Guinea",earthquake,7.5,7,0.071,19,reviewed,us,us
+2019-10-05T13:33:11.931Z,-6.7187,129.9101,152.06,4.9,mb,,100,1.863,0.55,us,us70005r2t,2019-10-05T13:48:31.040Z,"206km NW of Saumlaki, Indonesia",earthquake,8.4,4.9,0.162,12,reviewed,us,us
+2019-10-05T06:10:52.447Z,-13.2432,167.2339,199.02,4.7,mb,,144,2.191,0.66,us,us70005r0n,2019-10-05T07:19:00.040Z,"78km NNW of Sola, Vanuatu",earthquake,13.4,7.8,0.091,37,reviewed,us,us
+2019-10-05T05:27:27.542Z,-5.7553,133.7874,10,4.6,mb,,54,3.207,0.71,us,us70005r0j,2019-10-05T06:49:16.040Z,"47km W of Dobo, Indonesia",earthquake,6.9,1.9,0.146,14,reviewed,us,us
+2019-10-05T04:38:33.886Z,-58.7364,-23.4507,10,4.5,mb,,86,15.454,1.13,us,us70005u3r,2019-10-14T21:23:28.040Z,"179km E of Bristol Island, South Sandwich Islands",earthquake,11.8,1.9,0.157,12,reviewed,us,us
+2019-10-05T00:38:50.168Z,-18.0192,-177.8679,571.71,4.7,mb,,86,3.698,1.17,us,us70005qzd,2019-10-05T01:40:55.040Z,"Fiji region",earthquake,13.6,7.6,0.091,37,reviewed,us,us
+2019-10-04T22:42:26.832Z,-52.5675,28.2025,10,4.4,mb,,138,16.51,0.61,us,us70005tgy,2019-10-12T02:52:27.040Z,"South of Africa",earthquake,15.6,2,0.13,17,reviewed,us,us
+2019-10-04T21:59:45.759Z,2.6703,98.982,160.17,4.3,mb,,76,0.062,0.9,us,us70005tgw,2019-10-12T02:36:32.040Z,"5km E of Parapat, Indonesia",earthquake,7.5,1.6,0.178,9,reviewed,us,us
+2019-10-04T21:21:56.656Z,4.6462,94.3809,41.6,4.3,mb,,108,2.621,0.73,us,us70005tgv,2019-10-12T02:31:29.040Z,"145km SW of Banda Aceh, Indonesia",earthquake,5.9,9.8,0.133,16,reviewed,us,us
+2019-10-04T17:03:49.759Z,-6.2245,155.2312,160.34,4.9,mb,,78,3.662,0.58,us,us70005qsj,2019-10-05T14:50:00.040Z,"29km WNW of Panguna, Papua New Guinea",earthquake,9.9,5.2,0.034,272,reviewed,us,us
+2019-10-04T14:55:05.951Z,-22.8685,-66.1426,230.43,4,mb,,69,1.879,0.89,us,us70005qpi,2019-10-08T07:01:12.040Z,"48km WSW of Abra Pampa, Argentina",earthquake,10.1,12.9,0.298,3,reviewed,us,us
+2019-10-04T13:19:30.712Z,-5.2689,133.927,41.81,5,mb,,90,2.872,1.17,us,us70005qnt,2019-10-04T13:35:43.040Z,"63km NNW of Dobo, Indonesia",earthquake,9,8.2,0.127,20,reviewed,us,us
+2019-10-04T12:14:55.899Z,-24.1386,-67.1109,206.56,4.3,mb,,168,1.534,0.96,us,us70005qn8,2019-10-04T13:01:17.040Z,"80km W of San Antonio de los Cobres, Argentina",earthquake,10.6,5.6,0.266,4,reviewed,us,us
+2019-10-04T06:14:12.618Z,-61.0636,-39.0505,10,4.8,mb,,65,6.936,0.81,us,us70005ql3,2019-10-04T07:03:04.040Z,"Scotia Sea",earthquake,7.4,1.9,0.139,16,reviewed,us,us
+2019-10-04T04:02:26.380Z,-18.6252,-71.1732,17.74,4.9,mww,,146,1.606,1.12,us,us70005qk0,2019-10-04T04:44:14.593Z,"93km W of Arica, Chile",earthquake,7.6,4.5,0.069,20,reviewed,us,us
+2019-10-04T03:22:23.333Z,-3.0997,138.4094,10,4.2,mb,,113,2.364,1.05,us,us70005tgd,2019-10-11T23:29:35.040Z,"246km ENE of Enarotali, Indonesia",earthquake,11.1,1.9,0.236,5,reviewed,us,us
+2019-10-04T03:08:11.720Z,-29.6439,-72.7592,10,4.5,mwr,,100,1.35,1.19,us,us70005qjx,2019-10-04T03:29:09.040Z,"141km WNW of Coquimbo, Chile",earthquake,6.6,1.9,,,reviewed,us,guc
+2019-10-04T02:14:03.548Z,5.5063,126.4969,99.62,4.3,mb,,176,1.801,0.98,us,us70005tgb,2019-10-11T23:04:30.040Z,"100km SSE of Pondaguitan, Philippines",earthquake,11.3,12.2,0.177,9,reviewed,us,us
+2019-10-04T01:05:59.432Z,5.7006,126.5277,87.08,4.5,mb,,117,1.654,0.68,us,us70005tg8,2019-10-11T21:26:53.040Z,"82km SSE of Pondaguitan, Philippines",earthquake,10.8,9.7,0.164,11,reviewed,us,us
+2019-10-04T00:59:56.362Z,-15.2888,-172.9498,10,4.7,mb,,77,1.78,1.27,us,us70005tg7,2019-10-12T02:23:53.040Z,"112km NE of Hihifo, Tonga",earthquake,8.3,1.9,0.137,16,reviewed,us,us
+2019-10-04T00:45:57.701Z,1.4041,125.7481,51.84,4.7,mb,,81,1.735,1.31,us,us70005qj2,2019-10-04T01:56:56.040Z,"63km E of Bitung, Indonesia",earthquake,5.9,8,0.081,46,reviewed,us,us
+2019-10-03T23:20:44.742Z,-8.4624,160.1474,86.89,4.5,mb,,132,14.827,0.29,us,us70005tfq,2019-10-12T02:04:30.040Z,"69km WNW of Auki, Solomon Islands",earthquake,15,14.8,0.131,17,reviewed,us,us
+2019-10-03T21:12:25.956Z,-2.7788,138.4972,25.73,4.7,mb,,83,6.242,0.76,us,us70005qh0,2019-10-04T02:16:27.040Z,"232km W of Abepura, Indonesia",earthquake,8.3,6.2,0.108,26,reviewed,us,us
+2019-10-03T18:26:13.200Z,-2.7049,138.4343,35,4.3,mb,,90,2.275,0.88,us,us70005qbz,2019-10-13T17:04:33.040Z,"239km W of Abepura, Indonesia",earthquake,9.4,2,0.104,26,reviewed,us,us
+2019-10-03T18:18:52.096Z,-55.8708,-27.5922,85.67,4.2,mb,,126,5.352,0.58,us,us70005tfn,2019-10-13T18:07:26.040Z,"95km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,14.2,7.8,0.199,7,reviewed,us,us
+2019-10-03T17:49:44.793Z,-2.6521,138.3374,19.18,4.5,mb,,61,2.368,0.9,us,us70005tfi,2019-10-13T17:29:17.040Z,"249km W of Abepura, Indonesia",earthquake,6.7,4.8,0.094,33,reviewed,us,us
+2019-10-03T14:33:09.139Z,-2.7069,138.3219,51.47,5.5,mww,,37,6.069,0.94,us,us70005q83,2019-10-04T14:34:50.032Z,"251km W of Abepura, Indonesia",earthquake,8.4,7.1,0.059,28,reviewed,us,us
+2019-10-03T08:57:05.203Z,-20.2435,-173.3522,10,4.5,mb,,45,3.43,0.77,us,us70005q64,2019-10-03T12:21:15.040Z,"115km ESE of Pangai, Tonga",earthquake,9.5,1.9,0.14,15,reviewed,us,us
+2019-10-03T08:41:19.475Z,-3.6426,128.523,10,4.7,mb,,52,3.788,0.75,us,us70005q5z,2019-10-03T09:35:20.009Z,"14km SSE of Pelau, Indonesia",earthquake,7.9,1.9,0.096,33,reviewed,us,us
+2019-10-03T01:55:10.069Z,-56.2523,-27.5311,121.03,4.9,mb,,80,5.487,0.77,us,us70005q41,2019-10-03T02:40:24.040Z,"53km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.3,6.4,0.109,26,reviewed,us,us
+2019-10-03T01:11:43.613Z,-57.0241,-30.5116,10,5.1,mb,,75,4.358,0.62,us,us70005q3b,2019-10-03T01:34:42.040Z,"205km WSW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,9.9,1.8,0.095,36,reviewed,us,us
+2019-10-02T21:43:00.925Z,-5.5128,-80.8755,35,4.5,mb,,148,3.43,0.68,us,us70005q1k,2019-10-03T12:21:58.602Z,"7km NW of Sechura, Peru",earthquake,4.5,2,0.124,19,reviewed,us,us
+2019-10-02T21:38:19.935Z,5.1269,94.7801,69.32,4.6,mb,,136,2.16,0.57,us,us70005q1u,2019-10-02T22:24:16.040Z,"76km SW of Banda Aceh, Indonesia",earthquake,7.8,5.2,0.101,29,reviewed,us,us
+2019-10-02T20:31:00.009Z,-41.2256,80.6056,10,4.5,mb,,82,46.383,0.59,us,us70005tef,2019-10-13T16:31:42.040Z,"Mid-Indian Ridge",earthquake,11.2,1.9,0.171,10,reviewed,us,us
+2019-10-02T19:44:29.783Z,3.4982,64.1091,10,4.5,mb,,178,31.194,0.59,us,us70005ted,2019-10-13T14:51:16.040Z,"Carlsberg Ridge",earthquake,14,1.9,0.111,24,reviewed,us,us
+2019-10-02T18:41:49.210Z,-5.641,147.3294,160.77,4,mb,,171,3.574,0.65,us,us70005tea,2019-10-13T14:42:59.040Z,"121km NNW of Finschhafen, Papua New Guinea",earthquake,15.1,11.4,0.164,10,reviewed,us,us
+2019-10-02T17:51:05.049Z,3.3164,63.9726,10,4.2,mb,,171,17.113,0.57,us,us70005te9,2019-10-13T14:26:35.040Z,"Carlsberg Ridge",earthquake,10.1,1.9,0.176,9,reviewed,us,us
+2019-10-02T17:26:50.626Z,-23.4133,-67.5562,124.7,4.8,mww,,46,0.734,1.28,us,us70005pvy,2019-10-13T13:58:12.040Z,"87km SE of San Pedro de Atacama, Chile",earthquake,4.6,5.5,0.075,17,reviewed,us,us
+2019-10-02T16:58:52.742Z,-53.509,24.9828,10,4.6,mb,,82,21.331,0.82,us,us70005te6,2019-10-16T01:15:54.040Z,"South of Africa",earthquake,11.9,1.8,0.104,28,reviewed,us,us
+2019-10-02T15:13:28.149Z,-3.7167,-12.0851,10,4.8,mb,,105,21.633,0.71,us,us70005te4,2019-10-16T00:56:09.040Z,"North of Ascension Island",earthquake,9.4,1.9,0.116,23,reviewed,us,us
+2019-10-02T14:24:31.425Z,-2.6655,138.8194,35,5.1,mb,,58,6.567,0.58,us,us70005pt7,2019-10-02T15:09:47.040Z,"196km W of Abepura, Indonesia",earthquake,8.9,2,0.058,106,reviewed,us,us
+2019-10-02T13:50:15.922Z,-5.0489,151.5583,46.01,4.2,mb,,106,1.044,0.39,us,us70005psw,2019-10-03T05:35:32.040Z,"109km SW of Kokopo, Papua New Guinea",earthquake,8.8,4.6,0.147,13,reviewed,us,us
+2019-10-02T12:54:29.921Z,-3.4869,131.0092,10,4.5,mb,,89,1.36,0.82,us,us70005psm,2019-10-03T05:32:00.040Z,"233km E of Amahai, Indonesia",earthquake,5.6,1.6,0.104,27,reviewed,us,us
+2019-10-02T10:29:55.498Z,3.5138,64.1047,10,4.7,mb,,111,11.85,0.61,us,us70005prz,2019-10-02T10:46:24.040Z,"Carlsberg Ridge",earthquake,11.9,1.9,0.085,42,reviewed,us,us
+2019-10-02T09:18:31.497Z,-23.8072,-66.8133,217.37,4.1,mb,,166,1.516,0.68,us,us70005pr8,2019-10-03T05:11:20.040Z,"67km NW of San Antonio de los Cobres, Argentina",earthquake,11.9,9.8,0.214,6,reviewed,us,us
+2019-10-02T08:52:35.724Z,-24.1803,-66.9929,178.41,4.3,mb,,58,1.636,1.1,us,us70005pr0,2019-10-02T09:59:42.040Z,"68km W of San Antonio de los Cobres, Argentina",earthquake,8.9,10.1,0.142,14,reviewed,us,us
+2019-10-02T07:11:10.116Z,-29.7158,-72.8403,10,4.7,mb,,100,1.406,1.32,us,us70005pq8,2019-10-02T08:03:38.040Z,"147km W of Coquimbo, Chile",earthquake,6.8,1.8,0.108,33,reviewed,us,us
+2019-10-01T22:25:08.298Z,-22.5884,-10.6237,10,5.2,mww,,43,8.042,0.93,us,us70005pl8,2019-10-01T22:44:29.040Z,"Southern Mid-Atlantic Ridge",earthquake,9.6,1.8,0.089,12,reviewed,us,us
+2019-10-01T19:57:10.204Z,-55.25,158.4184,10,5.5,mww,,96,10.487,1.03,us,usd000b35a,2019-10-02T19:59:12.917Z,"91km SSW of Macquarie Island, Australia",earthquake,10.8,1.9,0.059,28,reviewed,us,us
+2019-10-01T19:23:46.513Z,-23.6804,-66.9094,206.73,4.6,mwr,,69,1.373,1.24,us,us70005phg,2019-10-03T15:18:38.040Z,"84km NW of San Antonio de los Cobres, Argentina",earthquake,8.5,7.7,,,reviewed,us,guc
+2019-10-01T16:31:54.550Z,-53.3583,24.588,10,4.3,mb,,117,21.927,0.58,us,us70005t2d,2019-10-10T19:15:40.040Z,"South of Africa",earthquake,17.5,1.9,0.178,9,reviewed,us,us
+2019-10-01T15:00:53.359Z,-17.8787,-178.1656,554.46,4.4,mb,,99,3.551,0.47,us,us70005t2c,2019-10-10T19:01:17.040Z,"Fiji region",earthquake,15.7,11.5,0.105,26,reviewed,us,us
+2019-10-01T13:53:05.398Z,5.6463,-79.7302,10,4.4,mb,,173,4.288,0.62,us,us70005t2i,2019-10-10T18:43:25.040Z,"209km SSE of Tonosi, Panama",earthquake,10.5,2,0.378,4,reviewed,us,us
+2019-10-01T11:42:54.054Z,-4.828,130.5081,84.77,4.5,mb,,94,2.571,0.76,us,us70005paz,2019-10-01T12:58:51.040Z,"241km SE of Amahai, Indonesia",earthquake,8.5,8.8,0.104,27,reviewed,us,us
+2019-10-01T09:46:40.988Z,-32.0198,-68.0422,10,4.5,mb,,70,0.722,1.21,us,us70005pab,2019-10-01T13:30:26.040Z,"46km SSE of Caucete, Argentina",earthquake,5.1,1.9,0.205,7,reviewed,us,us
+2019-10-01T07:41:53.727Z,-32.4976,79.9812,10,5.2,mb,,34,31.076,0.91,us,us70005p9h,2019-10-01T08:32:51.040Z,"Broken Ridge",earthquake,10.7,1.7,0.069,70,reviewed,us,us
+2019-10-01T05:16:38.739Z,-39.2229,177.7288,10,5.3,mb,,88,0.841,1.37,us,us70005p7u,2019-10-01T21:09:29.905Z,"37km SE of Wairoa, New Zealand",earthquake,4,1.9,0.069,70,reviewed,us,us
+2019-10-01T04:26:18.511Z,-23.1209,-66.7941,272.26,4.4,mb,,72,1.286,0.84,us,us70005p77,2019-10-01T05:05:56.040Z,"113km W of El Aguilar, Argentina",earthquake,8.6,10.7,0.17,10,reviewed,us,us
+2019-10-01T03:56:07.917Z,-56.0048,-122.4696,10,5.9,mww,,50,27.541,0.85,us,us70005p73,2019-10-11T21:47:16.040Z,"Southern East Pacific Rise",earthquake,13,1.8,0.071,19,reviewed,us,us
+2019-09-30T21:13:28.268Z,-18.04,-178.2666,630.29,4,mb,,230,3.517,0.31,us,us70005sli,2019-10-11T01:41:29.040Z,"292km N of Ndoi Island, Fiji",earthquake,21.2,12.6,0.122,18,reviewed,us,us
+2019-09-30T21:07:27.153Z,-44.561,167.7946,10,4.3,mb,,63,0.837,1.01,us,us70005p3h,2019-10-10T23:38:40.210Z,"86km NW of Queenstown, New Zealand",earthquake,2.6,1.8,0.154,12,reviewed,us,us
+2019-09-30T20:56:56.451Z,-50.4341,-6.8746,10,4.8,mb,,82,21.39,0.99,us,us70005slh,2019-10-10T18:42:54.040Z,"Southern Mid-Atlantic Ridge",earthquake,6.1,1.9,0.114,27,reviewed,us,us
+2019-09-30T18:40:41.470Z,-5.4727,146.303,69.72,4.6,mb,,61,3.568,0.8,us,us70005p0z,2019-10-10T17:43:18.040Z,"62km ESE of Madang, Papua New Guinea",earthquake,5.3,9.8,0.109,25,reviewed,us,us
+2019-09-30T17:59:53.343Z,-4.7957,151.2083,10,4.1,mb,,123,1.126,0.81,us,us70005p09,2019-10-10T17:24:31.040Z,"125km WSW of Rabaul, Papua New Guinea",earthquake,7.8,2,0.184,8,reviewed,us,us
+2019-09-30T16:54:36.732Z,-4.1946,150.8602,10,4.2,mb,,115,1.3,0.46,us,us70005sld,2019-10-09T19:39:54.040Z,"145km W of Rabaul, Papua New Guinea",earthquake,7.3,1.9,0.187,8,reviewed,us,us
+2019-09-30T15:37:31.558Z,-5.1129,151.5435,10,4.5,mb,,106,1.104,1,us,us70005nxi,2019-10-09T19:24:35.040Z,"115km SW of Kokopo, Papua New Guinea",earthquake,8.5,1.9,0.132,17,reviewed,us,us
+2019-09-30T15:17:37.661Z,-35.4781,-73.1241,10,4.3,mb,,185,1.268,0.36,us,us70005nwv,2019-10-09T19:20:04.040Z,"66km WSW of Constitucion, Chile",earthquake,9.5,2,0.306,3,reviewed,us,us
+2019-09-30T14:06:53.242Z,-10.2021,116.0185,35.46,4.3,mb,,96,2.52,0.79,us,us70005slb,2019-10-09T19:12:11.040Z,"147km S of Kute, Indonesia",earthquake,4.7,7.8,0.154,12,reviewed,us,us
+2019-09-30T13:59:47.691Z,-5.123,150.7657,68.72,4.1,mb,,151,4.568,0.41,us,us70005slc,2019-10-09T18:52:58.040Z,"83km NE of Kimbe, Papua New Guinea",earthquake,13.7,10.8,0.145,13,reviewed,us,us
+2019-09-30T13:51:49.377Z,-30.4932,-177.2561,10,4.4,mb,,234,1.374,0.54,us,us70005sln,2019-10-09T18:43:24.040Z,"149km SSE of Raoul Island, New Zealand",earthquake,7.5,2,0.22,6,reviewed,us,us
+2019-09-30T13:47:03.662Z,-3.6511,142.2946,43.33,4.1,mb,,74,1.948,0.31,us,us70005sla,2019-10-09T18:34:59.040Z,"57km S of Aitape, Papua New Guinea",earthquake,8.7,13.3,0.185,8,reviewed,us,us
+2019-09-30T13:39:33.933Z,-17.6156,179.9142,603.51,4.7,mb,,59,1.779,0.8,us,us70005nvb,2019-10-09T18:17:20.040Z,"144km SSE of Lambasa, Fiji",earthquake,10.3,7.3,0.032,293,reviewed,us,us
+2019-09-30T13:38:23.886Z,-5.0788,151.6144,6.67,4.3,mb,,172,1.037,0.72,us,us70005sl9,2019-10-09T18:14:56.040Z,"107km SW of Kokopo, Papua New Guinea",earthquake,6.8,10.4,0.189,8,reviewed,us,us
+2019-09-30T13:30:09.993Z,-17.623,179.865,608.31,4.7,mb,,75,1.731,0.77,us,us70005nv5,2019-10-09T15:52:30.040Z,"143km SSE of Lambasa, Fiji",earthquake,11.1,8.3,0.03,328,reviewed,us,us
+2019-09-30T11:53:22.338Z,-22.2093,-68.6552,110.58,5.6,mww,,33,0.682,1.54,us,us70005nud,2019-10-18T21:46:30.040Z,"40km NE of Calama, Chile",earthquake,6.5,5.5,0.071,19,reviewed,us,us
+2019-09-30T10:35:16.221Z,-35.5261,-73.0992,22.21,4.4,mb,,184,1.221,1.26,us,us70005ntl,2019-10-07T10:16:25.040Z,"65km WSW of Constitucion, Chile",earthquake,4.9,7.3,0.381,2,reviewed,us,us
+2019-09-30T09:21:50.130Z,-34.5799,-73.892,10,4.8,mb,,152,2.237,1.19,us,us70005nt0,2019-09-30T09:43:28.040Z,"158km WNW of Constitucion, Chile",earthquake,8,1.9,0.058,90,reviewed,us,us
+2019-09-30T04:49:33.267Z,-35.4564,-72.9867,10.36,4.7,mb,,127,1.299,0.77,us,us70005nqz,2019-10-18T21:15:38.040Z,"53km WSW of Constitucion, Chile",earthquake,6.5,4.1,0.068,65,reviewed,us,us
+2019-09-30T04:35:30.290Z,-5.0785,151.462,9.69,4.9,mb,,82,1.125,1.25,us,us70005nqx,2019-10-10T23:28:47.040Z,"119km SW of Kokopo, Papua New Guinea",earthquake,7.7,4.9,0.096,34,reviewed,us,us
+2019-09-30T03:48:35.134Z,1.273,66.6922,10,4.3,mb,,114,6.349,1.2,us,us70005skv,2019-10-10T23:19:06.040Z,"Carlsberg Ridge",earthquake,10.2,1.9,0.138,15,reviewed,us,us
+2019-09-30T02:55:22.244Z,-5.0151,151.4821,10,4.3,mb,,101,1.063,1.33,us,us70005skt,2019-10-10T05:23:41.040Z,"113km SW of Kokopo, Papua New Guinea",earthquake,5,1.9,0.133,16,reviewed,us,us
+2019-09-30T02:54:17.822Z,-57.3514,-26.1035,92.79,4.5,mb,,107,6.609,0.98,us,us70005skr,2019-10-10T05:10:10.040Z,"98km SE of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,11.4,5.7,0.111,24,reviewed,us,us
+2019-09-30T02:52:52.782Z,-5.0602,151.4186,10,4.1,mb,,100,1.138,1.1,us,us70005sku,2019-10-10T05:02:01.040Z,"122km SW of Kokopo, Papua New Guinea",earthquake,6.8,1.9,0.131,16,reviewed,us,us
+2019-09-30T02:52:24.236Z,-28.5937,60.635,10,4.6,mb,,134,12.72,0.89,us,us70005sks,2019-10-10T03:45:23.040Z,"Southwest Indian Ridge",earthquake,9.7,1.9,0.182,9,reviewed,us,us
+2019-09-30T02:07:20.213Z,3.7319,64.3102,10,4.5,mb,,209,30.562,0.65,us,us70005skm,2019-10-10T00:49:55.040Z,"Carlsberg Ridge",earthquake,9.8,1.9,0.108,25,reviewed,us,us
+2019-09-30T02:00:16.846Z,5.6781,126.4039,118.6,4.3,mb,,187,1.607,0.6,us,us70005skn,2019-10-10T00:39:59.040Z,"79km SSE of Pondaguitan, Philippines",earthquake,13.1,7.6,0.137,15,reviewed,us,us
+2019-09-29T20:11:58.633Z,-35.4908,-72.9824,11.38,5.3,mb,,83,1.265,0.84,us,us70005nkr,2019-10-18T21:01:30.040Z,"54km WSW of Constitucion, Chile",earthquake,5.9,3.8,0.03,376,reviewed,us,us
+2019-09-29T18:45:58.600Z,-35.4978,-73.1968,20.27,4.4,mb,,166,1.247,0.94,us,us70005nk0,2019-09-29T19:27:48.040Z,"73km WSW of Constitucion, Chile",earthquake,7.8,6.7,0.178,9,reviewed,us,us
+2019-09-29T18:28:36.436Z,-35.459,-73.0888,19.45,4.5,mwr,,148,1.288,1.25,us,us70005njy,2019-09-29T18:57:03.040Z,"62km WSW of Constitucion, Chile",earthquake,6.2,5,,,reviewed,us,guc
+2019-09-29T18:02:20.609Z,2.7044,127.166,43.72,4.5,mb,,174,1.93,0.89,us,us70005njv,2019-09-29T19:31:57.040Z,"143km NW of Tobelo, Indonesia",earthquake,11.1,11,0.121,20,reviewed,us,us
+2019-09-29T17:48:10.974Z,-35.4366,-73.3754,23.73,4.4,mb,,152,1.317,0.97,us,us70005njs,2019-09-29T19:24:48.040Z,"87km W of Constitucion, Chile",earthquake,8.2,6,0.239,5,reviewed,us,us
+2019-09-29T17:41:56.497Z,2.629,127.0766,37.68,4.8,mb,,156,1.867,0.78,us,us70005njr,2019-09-29T19:12:54.040Z,"143km NW of Tobelo, Indonesia",earthquake,14.4,8.9,0.091,37,reviewed,us,us
+2019-09-29T17:12:35.555Z,-35.5328,-73.0967,20.15,4.3,mb,,162,1.214,1.16,us,us70005njk,2019-09-29T19:06:18.040Z,"65km WSW of Constitucion, Chile",earthquake,7.9,3.3,0.237,5,reviewed,us,us
+2019-09-29T16:39:55.406Z,-35.4988,-73.1703,10,4.7,mb,,165,1.246,0.64,us,us70005nj1,2019-10-08T17:00:40.040Z,"70km WSW of Constitucion, Chile",earthquake,8.1,1.9,0.208,7,reviewed,us,us
+2019-09-29T16:21:35.051Z,-35.4321,-73.1029,10,4.2,ml,,199,1.314,0.46,us,us70005niw,2019-10-08T16:54:28.708Z,"63km W of Constitucion, Chile",earthquake,6,2,0.056,42,reviewed,us,us
+2019-09-29T16:13:01.581Z,-35.5273,-73.2157,10,4,ml,,205,1.218,0.31,us,us70005niq,2019-10-08T16:53:22.651Z,"75km WSW of Constitucion, Chile",earthquake,5.8,2,0.062,34,reviewed,us,us
+2019-09-29T16:09:46.126Z,-35.4534,-73.2386,10,5.2,mb,,156,1.292,0.59,us,us70005s4q,2019-10-08T16:53:08.966Z,"75km W of Constitucion, Chile",earthquake,7.2,1.9,0.173,17,reviewed,us,us
+2019-09-29T15:57:53.236Z,-35.4756,-73.1631,11,6.7,mww,,98,1.269,0.65,us,us70005nie,2019-10-10T16:05:50.496Z,"69km WSW of Constitucion, Chile",earthquake,3,1.8,0.04,61,reviewed,us,us
+2019-09-29T14:10:14.289Z,3.886,64.2567,10,4.9,mb,,130,9.358,0.91,us,us70005nhp,2019-10-08T17:22:40.040Z,"Carlsberg Ridge",earthquake,11.8,1.9,0.075,56,reviewed,us,us
+2019-09-29T13:44:52.739Z,3.9369,64.2142,10,5.3,mb,,51,9.416,0.93,us,us70005nhk,2019-10-08T17:21:29.040Z,"Carlsberg Ridge",earthquake,9.1,1.9,0.053,120,reviewed,us,us
+2019-09-29T13:11:17.309Z,5.6107,126.6665,70.38,4.5,mb,,93,1.808,0.59,us,us70005s4k,2019-10-08T17:18:29.040Z,"99km SSE of Pondaguitan, Philippines",earthquake,10,8.6,0.121,20,reviewed,us,us
+2019-09-29T12:32:54.458Z,-24.2533,-67.0521,188.33,4.5,mb,,70,1.657,0.97,us,us70005nh8,2019-10-16T06:24:21.040Z,"74km W of San Antonio de los Cobres, Argentina",earthquake,7.3,10.6,0.18,9,reviewed,us,us
+2019-09-29T09:50:00.115Z,-24.2556,-67.2477,194.66,4.2,mb,,54,1.553,0.95,us,us70005nfq,2019-10-16T05:54:07.040Z,"94km W of San Antonio de los Cobres, Argentina",earthquake,9,11.7,0.306,3,reviewed,us,us
+2019-09-29T07:40:18.443Z,5.6455,126.5314,80.18,5.1,mb,,55,1.702,0.86,us,us70005nf1,2019-09-29T15:17:29.040Z,"88km SSE of Pondaguitan, Philippines",earthquake,7.6,6.2,0.043,179,reviewed,us,us
+2019-09-29T05:21:23.924Z,-22.8034,-63.7468,523.54,4.4,mb,,34,4.09,0.48,us,us70005ndj,2019-09-29T05:41:03.040Z,"23km SSE of General Enrique Mosconi, Argentina",earthquake,12.3,10.7,0.067,65,reviewed,us,us
+2019-09-29T04:19:23.187Z,5.7502,126.6689,94.72,4.6,mb,,188,1.7,0.65,us,us70005s46,2019-10-11T05:36:06.040Z,"86km SE of Pondaguitan, Philippines",earthquake,12.8,10.9,0.206,7,reviewed,us,us
+2019-09-29T03:43:15.965Z,-8.0668,156.126,10,4.2,mb,,138,4.015,0.91,us,us70005s44,2019-10-11T04:43:41.040Z,"79km W of Gizo, Solomon Islands",earthquake,11.2,1.9,0.216,6,reviewed,us,us
+2019-09-29T03:12:09.813Z,5.7282,126.6129,79.37,4.5,mb,,162,1.682,0.73,us,us70005s43,2019-10-11T04:33:06.040Z,"84km SE of Pondaguitan, Philippines",earthquake,10.7,9.9,0.164,11,reviewed,us,us
+2019-09-29T03:08:56.202Z,5.4877,126.6264,90.04,4.4,mb,,193,1.885,0.86,us,us70005s42,2019-10-11T04:23:57.040Z,"108km SSE of Pondaguitan, Philippines",earthquake,9.1,13.7,0.179,9,reviewed,us,us
+2019-09-29T02:40:40.315Z,5.6222,126.4261,79.06,4.4,mb,,132,4.908,0.6,us,us70005s41,2019-10-11T03:40:40.040Z,"86km SSE of Pondaguitan, Philippines",earthquake,14,8.8,0.178,9,reviewed,us,us
+2019-09-29T02:14:57.894Z,-21.1519,-69.0564,110.29,4.3,mb,,42,0.416,0.82,us,us70005nbf,2019-09-29T02:55:35.040Z,"146km N of Calama, Chile",earthquake,5.6,6,0.188,8,reviewed,us,us
+2019-09-29T02:02:52.085Z,5.6882,126.5476,76.08,6.2,mww,,25,1.676,1.05,us,us70005nbb,2019-10-03T14:39:10.760Z,"84km SSE of Pondaguitan, Philippines",earthquake,7.4,5.4,0.071,19,reviewed,us,us
+2019-09-29T01:14:13.098Z,-23.0729,-66.4915,229.35,4.4,mb,,41,1.559,1.1,us,us70005nam,2019-09-29T01:30:42.040Z,"83km WNW of El Aguilar, Argentina",earthquake,9.1,8.5,0.13,17,reviewed,us,us
+2019-09-28T20:01:29.874Z,-6.4435,146.952,102.78,4.9,mb,,104,2.949,0.79,us,us70005n7n,2019-09-28T20:35:10.238Z,"31km N of Lae, Papua New Guinea",earthquake,6.3,7.6,0.125,20,reviewed,us,us
+2019-09-28T18:19:15.017Z,-35.294,78.677,10,5,mb,,59,2.651,0.74,us,us70005n6i,2019-10-01T18:49:52.040Z,"300km NNE of Amsterdam Island, France",earthquake,10.2,1,0.09,39,reviewed,us,us
+2019-09-28T08:00:26.452Z,-24.0376,-67.9219,151.47,4,mb,,91,1.106,0.98,us,us70005n26,2019-10-16T05:30:17.040Z,"127km SSE of San Pedro de Atacama, Chile",earthquake,9.9,8.1,0.298,3,reviewed,us,us
+2019-09-28T07:23:29.818Z,-19.1625,-69.2892,110.89,4.2,mwr,,104,0.511,0.68,us,us70005n1y,2019-10-16T05:26:56.040Z,"110km SSE of Putre, Chile",earthquake,6.7,6.3,,,reviewed,us,guc
+2019-09-28T04:07:58.465Z,-22.6805,-177.1677,224.86,5.2,mww,,115,6.573,1.24,us,us70005n0r,2019-09-28T04:27:37.040Z,"261km SW of Vaini, Tonga",earthquake,9.7,5.7,0.08,15,reviewed,us,us
+2019-09-28T01:53:02.399Z,-28.6595,-67.6522,144.04,4.3,mb,,72,2.239,0.74,us,us70005n09,2019-09-28T02:30:32.040Z,"55km ENE of Vinchina, Argentina",earthquake,5.4,13.3,0.202,7,reviewed,us,us
+2019-09-28T00:14:47.901Z,2.0156,128.2998,135.3,4.2,mb,,131,1.548,0.54,us,us70005s2z,2019-10-11T22:42:45.040Z,"45km NE of Tobelo, Indonesia",earthquake,13.5,8.6,0.128,17,reviewed,us,us
+2019-09-27T22:40:05.960Z,-21.2608,-10.9826,10,4.7,mb,,86,28.75,0.62,us,us70005s2u,2019-10-11T23:19:49.040Z,"Southern Mid-Atlantic Ridge",earthquake,6.1,1.9,0.104,28,reviewed,us,us
+2019-09-27T22:27:50.302Z,-23.5195,-179.7273,563.87,4.5,mb,,120,6.109,0.64,us,us70005mxj,2019-09-27T22:45:51.040Z,"South of the Fiji Islands",earthquake,7.7,9.9,0.099,30,reviewed,us,us
+2019-09-27T15:15:44.720Z,-18.7871,-172.6123,10,4.7,mb,,111,2.557,1.13,us,us70005mmm,2019-09-27T16:43:53.040Z,"145km E of Neiafu, Tonga",earthquake,8,1.8,0.123,20,reviewed,us,us
+2019-09-27T15:11:29.576Z,-35.8969,-102.9008,10,5.8,mww,,40,24.929,1.12,us,us70005mls,2019-09-28T16:54:03.040Z,"Southeast of Easter Island",earthquake,11.9,1.8,0.073,18,reviewed,us,us
+2019-09-27T14:02:06.154Z,-30.0406,-177.8961,45.45,5,mb,,92,0.793,1.1,us,us70005mhf,2019-09-27T14:17:14.040Z,"85km S of Raoul Island, New Zealand",earthquake,8.2,9.2,0.109,27,reviewed,us,us
+2019-09-27T13:57:41.648Z,-15.2806,-72.1252,82.74,4.6,mb,,115,3.422,0.7,us,us70005mh9,2019-09-28T13:24:36.040Z,"23km E of Orcopampa, Peru",earthquake,8.7,5.9,0.081,45,reviewed,us,us
+2019-09-27T13:44:43.419Z,0.7721,-77.912,28.77,4.3,mb,,116,2.398,0.84,us,us70005mh3,2019-09-28T12:29:54.040Z,"17km N of El Angel, Ecuador",earthquake,8.7,8.6,0.083,41,reviewed,us,us
+2019-09-27T12:05:02.639Z,-30.1309,-177.8266,35,6,mww,,23,0.887,1.09,us,us70005mea,2019-09-28T12:10:58.934Z,"96km S of Raoul Island, New Zealand",earthquake,8,1.9,0.073,18,reviewed,us,us
+2019-09-27T11:21:24.548Z,-23.1829,-69.113,107.2,4.6,mwr,,62,0.635,0.89,us,us70005mde,2019-09-27T11:48:56.040Z,"81km SSW of Calama, Chile",earthquake,5,5.2,,,reviewed,us,guc
+2019-09-27T07:33:58.429Z,-54.6985,-26.6696,10,4.2,mb,,104,19.874,0.6,us,us70005s1t,2019-10-14T10:18:05.040Z,"225km N of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,8.3,1.9,0.159,11,reviewed,us,us
+2019-09-27T07:29:35.790Z,-21.1553,-69.0028,98.76,4.4,mwr,,49,0.466,0.64,us,us70005m9d,2019-10-14T10:07:29.040Z,"145km N of Calama, Chile",earthquake,6.1,6,0.057,30,reviewed,us,us
+2019-09-27T04:32:43.648Z,-8.9151,-75.03,35,4.5,mb,,114,3.535,0.54,us,us70005m7b,2019-09-27T05:05:15.040Z,"54km SSW of Campoverde, Peru",earthquake,7.5,2,0.09,36,reviewed,us,us
+2019-09-27T04:31:28.846Z,1.4101,126.3617,43.51,4.4,mb,,98,1.188,0.75,us,us70005s1i,2019-10-10T22:52:40.040Z,"131km WNW of Kota Ternate, Indonesia",earthquake,9.4,7.9,0.17,10,reviewed,us,us
+2019-09-27T03:25:36.414Z,-7.6741,127.5604,170.79,4.4,mb,,120,3.716,1.35,us,us70005m6r,2019-09-27T03:42:05.040Z,"239km ENE of Dili, East Timor",earthquake,10.4,9.4,0.144,14,reviewed,us,us
+2019-09-27T03:19:01.205Z,-55.3567,-27.925,10,5,mb,,109,19.547,0.55,us,us70005m74,2019-09-27T04:16:26.040Z,"156km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",earthquake,15.5,1.9,0.113,25,reviewed,us,us
+2019-09-27T03:17:59.830Z,-8.2456,-74.2303,151.14,4.8,mb,,104,4.52,0.76,us,us70005m6j,2019-09-27T04:18:29.850Z,"38km ENE of Pucallpa, Peru",earthquake,9.4,7.8,0.038,217,reviewed,us,us
+2019-09-27T03:09:53.173Z,-16.7041,-174.0944,168.25,4.4,mb,,69,4.554,1.05,us,us70005s1h,2019-10-10T04:58:39.040Z,"91km SSW of Hihifo, Tonga",earthquake,10.1,6.2,0.134,16,reviewed,us,us
+2019-09-27T02:45:08.198Z,-29.7387,-177.2475,10,4.8,mb,,180,0.771,0.75,us,us70005s1k,2019-10-10T04:27:58.040Z,"82km SE of Raoul Island, New Zealand",earthquake,8.7,1.9,0.154,13,reviewed,us,us
+2019-09-27T02:29:39.877Z,-21.913,-179.3607,604.95,4.6,mb,,128,4.808,0.59,us,us70005m5n,2019-09-27T02:46:37.040Z,"155km SSW of Ndoi Island, Fiji",earthquake,13.9,8.9,0.098,31,reviewed,us,us
+2019-09-27T02:18:41.245Z,-25.7017,-177.2617,97.11,5.2,mb,,142,3.579,0.87,us,us70005m5h,2019-09-27T02:37:36.040Z,"South of the Fiji Islands",earthquake,7.6,10.1,0.105,30,reviewed,us,us
+2019-09-27T00:56:01.905Z,-13.4091,-111.1015,10,4.6,mb,,157,13.749,0.6,us,us70005s1f,2019-10-11T22:18:16.040Z,"Central East Pacific Rise",earthquake,14.6,1.9,0.062,78,reviewed,us,us
+2019-09-27T00:53:14.986Z,-13.4871,-111.7455,10,4.5,mb,,163,13.757,0.64,us,us70005s1e,2019-10-11T05:44:11.040Z,"Central East Pacific Rise",earthquake,15.5,1.9,0.088,38,reviewed,us,us
+2019-09-26T22:18:11.013Z,-24.0717,-67.0091,240.81,4.1,mb,,118,1.547,0.75,us,us70005m20,2019-09-27T05:41:01.040Z,"72km WNW of San Antonio de los Cobres, Argentina",earthquake,11.3,15.6,0.302,3,reviewed,us,us
+2019-09-26T20:31:28.908Z,-29.8648,-71.3217,25.07,5.4,mww,,99,0.09,0.98,us,us70005lzd,2019-10-10T13:32:37.515Z,"8km NW of La Serena, Chile",earthquake,2.8,4.3,0.073,18,reviewed,us,us
+2019-09-26T19:53:36.310Z,-33.8057,-179.2034,35,4.2,mb,,288,4.261,0.55,us,us70005s1a,2019-10-10T16:35:16.040Z,"264km S of L'Esperance Rock, New Zealand",earthquake,7.3,2,0.235,5,reviewed,us,us
+2019-09-26T19:07:40.838Z,-9.882,159.6311,10,5.1,mb,,71,0.539,1.33,us,us70005lx6,2019-10-10T16:37:50.522Z,"60km SW of Honiara, Solomon Islands",earthquake,6.4,1.9,0.056,102,reviewed,us,us
+2019-09-26T19:03:14.298Z,-6.0558,103.6131,35,4.6,mb,,169,1.806,1.09,us,us70005lx7,2019-10-10T13:25:51.040Z,"92km SSW of Biha, Indonesia",earthquake,5.6,2,0.122,20,reviewed,us,us
+2019-09-26T19:00:41.255Z,-13.3997,-111.4276,10,5.5,mwb,,96,28.528,1.12,us,us70005lx1,2019-10-10T13:06:00.364Z,"Central East Pacific Rise",earthquake,9,1.8,0.071,19,reviewed,us,us
+2019-09-26T16:36:18.134Z,-40.8152,-72.0019,129,6.1,mww,,30,0.443,0.77,us,us70005lt4,2019-10-01T14:00:45.953Z,"30km WSW of Villa La Angostura, Argentina",earthquake,4.9,1.8,0.058,29,reviewed,us,us
+2019-09-26T13:07:00.211Z,-28.8,-176.0497,57.86,4.9,mb,,123,1.704,0.71,us,us70005lmz,2019-09-26T15:27:58.040Z,"187km ENE of Raoul Island, New Zealand",earthquake,15.1,8.1,0.082,46,reviewed,us,us
+2019-09-26T11:08:36.483Z,-7.2184,150.5153,38.23,5.1,mb,,80,3.968,0.99,us,us70005lkp,2019-09-26T11:35:49.040Z,"153km SE of Kandrian, Papua New Guinea",earthquake,8.2,7.1,0.059,92,reviewed,us,us
+2019-09-26T09:47:00.912Z,-14.1076,167.5123,166.92,4.5,mb,,161,1.364,0.8,us,us70005lk8,2019-09-26T11:46:21.040Z,"25km S of Sola, Vanuatu",earthquake,13.3,5.1,0.113,23,reviewed,us,us
+2019-09-26T05:28:41.542Z,-3.6627,128.4554,10,4.2,mb,,93,3.858,1.23,us,us70005lhw,2019-09-26T06:03:33.040Z,"15km ESE of Tulehu, Indonesia",earthquake,6.7,1.8,0.158,11,reviewed,us,us
+2019-09-26T00:39:59.541Z,-3.6093,128.4829,10.98,5.4,mww,,25,3.821,1.13,us,us70005lg7,2019-09-27T17:01:31.040Z,"10km S of Pelau, Indonesia",earthquake,2.4,3.7,0.071,19,reviewed,us,us
+2019-09-25T23:46:44.575Z,-3.45,128.3471,18.16,6.5,mww,,15,3.931,0.87,us,us70005lfd,2019-09-29T00:30:11.712Z,"10km S of Kairatu, Indonesia",earthquake,6.5,3,0.042,54,reviewed,us,us
+2019-09-25T23:44:27.225Z,-8.3234,119.8153,185.43,4.6,mb,,46,2.416,1.3,us,us70005lfa,2019-09-26T02:37:28.040Z,"19km NNW of Cempa, Indonesia",earthquake,5.4,6.4,0.073,56,reviewed,us,us
+2019-09-25T21:59:47.521Z,-23.2363,-66.6024,242.41,4.1,mb,,96,1.478,0.62,us,us70005lea,2019-09-25T22:28:01.040Z,"93km W of El Aguilar, Argentina",earthquake,11.1,11.2,0.261,4,reviewed,us,us
+2019-09-25T20:59:49.465Z,-53.1321,28.8854,10,4.5,mb,,136,21.545,0.91,us,us70005rza,2019-10-09T18:02:05.040Z,"South of Africa",earthquake,20.9,2,0.18,9,reviewed,us,us
+2019-09-25T20:43:35.392Z,-5.9139,148.186,85.5,4.3,mb,,79,3.614,0.94,us,us70005rz2,2019-10-09T17:13:33.040Z,"83km NNE of Finschhafen, Papua New Guinea",earthquake,6.1,14.2,0.154,12,reviewed,us,us
+2019-09-25T20:28:44.005Z,-40.3492,-16.8926,10,4.8,mb,,87,32.184,1.27,us,us70005rz0,2019-10-09T15:09:09.040Z,"Southern Mid-Atlantic Ridge",earthquake,13,1.5,0.102,30,reviewed,us,us
+2019-09-25T20:18:31.000Z,-40.4946,-16.8308,10,5.4,mb,,84,19.076,1.17,us,us70005lby,2019-10-09T13:45:14.040Z,"Southern Mid-Atlantic Ridge",earthquake,11.8,1.8,0.069,72,reviewed,us,us
+2019-09-25T20:15:54.022Z,-40.6554,-16.7941,10,5.2,mb,,47,18.965,1.03,us,us70005lbu,2019-10-09T13:44:15.040Z,"Southern Mid-Atlantic Ridge",earthquake,5,1.8,0.074,60,reviewed,us,us
+2019-09-25T19:54:28.460Z,-5.8569,148.1424,98.41,5.4,mww,,43,3.656,0.88,us,us70005las,2019-10-09T13:36:49.666Z,"87km NNE of Finschhafen, Papua New Guinea",earthquake,4.9,5.7,0.073,18,reviewed,us,us
+2019-09-25T19:43:22.676Z,-27.8802,-66.7487,156.27,5.3,mww,,27,2.359,0.73,us,us70005laf,2019-10-09T13:30:38.040Z,"37km SE of Belen, Argentina",earthquake,7.3,6.4,0.058,29,reviewed,us,us
+2019-09-25T19:19:06.644Z,-18.9146,-177.8596,366.62,4.1,mb,,254,4.053,0.73,us,us70005ryv,2019-10-09T14:18:55.040Z,"211km NNE of Ndoi Island, Fiji",earthquake,8.6,14.6,0.126,17,reviewed,us,us
+2019-09-25T16:13:29.236Z,-2.8572,127.9265,45.74,4.3,mb,,100,3.647,0.68,us,us70005rys,2019-10-09T04:05:35.040Z,"37km NW of Piru, Indonesia",earthquake,9.5,11.4,0.153,12,reviewed,us,us
+2019-09-25T15:57:32.920Z,-4.2445,142.8076,44.92,5.4,mww,,22,2.713,0.91,us,us70005l6a,2019-10-09T04:01:08.253Z,"4km WSW of Ambunti, Papua New Guinea",earthquake,7,4.8,0.061,26,reviewed,us,us
+2019-09-25T15:18:32.924Z,-22.8342,-176.888,155.12,4.4,mb,,122,7.502,1.21,us,us70005ryr,2019-10-09T03:30:11.040Z,"251km SW of Vaini, Tonga",earthquake,8.2,10.3,0.12,20,reviewed,us,us
+2019-09-25T14:39:28.245Z,-7.1115,125.1051,558.37,4.6,mb,,78,2.754,0.88,us,us70005l5b,2019-10-14T09:38:51.040Z,"168km NNW of Dili, East Timor",earthquake,8.5,8.9,0.102,29,reviewed,us,us
+2019-09-25T14:31:29.899Z,0.5204,126.2975,46.52,4.4,mb,,48,1.097,0.85,us,us70005ryq,2019-10-14T09:37:46.040Z,"122km WSW of Kota Ternate, Indonesia",earthquake,5.3,8.6,0.115,22,reviewed,us,us
+2019-09-25T13:04:42.226Z,-17.6881,-178.7316,548.09,4.9,mb,,55,3.065,0.99,us,us70005l3i,2019-10-14T09:18:00.040Z,"245km SE of Lambasa, Fiji",earthquake,11.3,8.6,0.084,45,reviewed,us,us
+2019-09-25T11:35:59.856Z,-3.0865,127.9211,39.98,4.4,mb,,96,3.872,0.78,us,us70005l31,2019-09-25T11:52:36.040Z,"30km W of Piru, Indonesia",earthquake,8.2,10.1,0.105,26,reviewed,us,us
+2019-09-25T10:45:59.995Z,-36.1432,148.6926,5,2.7,ml,,124,0.859,1.29,us,us70005l37,2019-09-26T11:41:13.570Z,"27km NNW of Berridale, Australia",earthquake,5.6,2,0.181,4,reviewed,us,us
+2019-09-25T07:28:08.470Z,-58.5813,-25.8601,10,4.8,mb,,194,7.295,0.66,us,us70005l1b,2019-09-25T08:36:02.040Z,"63km NE of Bristol Island, South Sandwich Islands",earthquake,13.4,2,0.086,42,reviewed,us,us
+2019-09-25T04:29:11.039Z,-17.6103,-172.8779,10,5.2,mb,,52,3.829,0.93,us,us70005l06,2019-09-25T04:53:20.040Z,"164km NE of Neiafu, Tonga",earthquake,7.5,1.9,0.033,298,reviewed,us,us
+2019-09-25T01:02:05.325Z,-20.9862,-178.7451,589.54,4.8,mb,,94,4.419,0.85,us,us70005ky0,2019-10-09T01:52:03.040Z,"37km S of Ndoi Island, Fiji",earthquake,11.5,6.3,0.033,289,reviewed,us,us
+2019-09-25T00:17:44.357Z,-25.8392,-177.1338,70.15,4.5,mb,,128,3.465,0.71,us,us70005ryd,2019-10-08T23:50:57.040Z,"South of the Fiji Islands",earthquake,12.4,6.2,0.127,18,reviewed,us,us
+2019-09-24T21:29:40.243Z,-33.7801,56.1986,10,4.9,mb,,80,11.894,0.53,us,us60005n7b,2019-09-24T22:31:51.040Z,"Southwest Indian Ridge",earthquake,9.1,1.7,0.11,26,reviewed,us,us
+2019-09-24T21:25:10.478Z,-33.7856,56.3123,10,5.1,mb,,86,11.965,0.46,us,us60005n75,2019-09-24T22:16:46.040Z,"Southwest Indian Ridge",earthquake,7.4,1.9,0.094,37,reviewed,us,us
+2019-09-24T21:19:47.737Z,-33.8163,56.2497,10,6.1,mww,,27,11.949,0.69,us,us60005n52,2019-09-25T04:53:49.040Z,"Southwest Indian Ridge",earthquake,9.1,1.8,0.073,18,reviewed,us,us
+2019-09-24T21:12:01.296Z,-33.8121,56.317,10,5.1,mww,,51,11.986,0.68,us,us60005n4s,2019-09-24T21:27:33.040Z,"Southwest Indian Ridge",earthquake,10.9,1.9,0.075,17,reviewed,us,us
+2019-09-24T16:55:20.120Z,4.3944,128.4237,10,4.7,mb,,107,3.75,0.65,us,us60005mxc,2019-10-02T20:02:44.040Z,"298km N of Tobelo, Indonesia",earthquake,9.7,1.9,0.099,31,reviewed,us,us
+2019-09-24T16:45:38.469Z,-65.1568,179.3061,10.8,4.1,mb,,172,13.304,0.67,us,us70005pwv,2019-10-02T19:32:31.040Z,"251km N of Scott Island Bank, Antarctica",earthquake,18.2,5.6,0.214,6,reviewed,us,us
+2019-09-24T14:34:53.792Z,-18.1614,-178.4589,538.69,4.1,mb,,134,3.346,0.95,us,us70005pwt,2019-10-02T18:40:12.040Z,"276km N of Ndoi Island, Fiji",earthquake,21.6,13.1,0.131,16,reviewed,us,us
+2019-09-24T10:27:01.125Z,-7.5504,128.3992,157.12,4.5,mb,,59,2.905,0.94,us,us60005mq5,2019-09-24T10:54:49.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.5,9.3,0.124,19,reviewed,us,us
+2019-09-24T10:15:56.525Z,5.6201,-79.681,10,4.7,mb,,131,3.526,1.19,us,us60005mq0,2019-09-24T10:42:28.040Z,"214km SSE of Tonosi, Panama",earthquake,7.7,1.9,0.086,41,reviewed,us,us
+2019-09-24T08:01:36.720Z,-5.6159,142.8534,56.31,4.3,mb,,151,5.691,0.97,us,us60005mmz,2019-09-28T07:55:24.040Z,"41km WSW of Porgera, Papua New Guinea",earthquake,8.8,10.7,0.16,11,reviewed,us,us
+2019-09-24T07:18:38.318Z,-20.8894,-178.3929,536.29,5.3,mb,,38,4.587,0.86,us,us60005mlv,2019-09-24T07:37:26.040Z,"41km SE of Ndoi Island, Fiji",earthquake,6.2,6.9,0.025,545,reviewed,us,us
+2019-09-24T03:51:38.217Z,-18.1748,120.3366,10,4.5,mb,,107,3.023,0.5,us,us60005mji,2019-09-24T04:10:33.040Z,"202km W of Broome, Australia",earthquake,4.1,2,0.313,3,reviewed,us,us
+2019-09-23T19:53:26.718Z,-15.2603,-178.624,417.18,4.3,mb,,122,1.064,0.93,us,us70005pep,2019-10-02T16:24:13.040Z,"117km SSW of Sigave, Wallis and Futuna",earthquake,16.4,7.8,0.085,39,reviewed,us,us
+2019-09-23T16:24:18.349Z,-21.6317,-179.0313,570.59,4.2,mb,,148,4.743,0.59,us,us70005pei,2019-10-01T19:28:49.040Z,"114km SSW of Ndoi Island, Fiji",earthquake,18.1,10,0.116,21,reviewed,us,us
+2019-09-23T15:33:37.953Z,-43.3131,91.7148,10,4.2,mb,,153,25.23,0.93,us,us70005peh,2019-10-01T19:16:30.040Z,"Southeast Indian Ridge",earthquake,11.1,2,0.187,8,reviewed,us,us
+2019-09-23T14:02:48.034Z,-16.0626,-174.9874,297.67,4.2,mb,,67,3.769,0.43,us,us70005pee,2019-10-01T18:27:19.040Z,"133km W of Hihifo, Tonga",earthquake,13.3,9.8,0.124,18,reviewed,us,us
+2019-09-23T13:27:07.311Z,-26.0619,-177.6672,162.13,4.1,mb,,186,3.179,0.86,us,us70005ped,2019-10-01T18:13:50.040Z,"South of the Fiji Islands",earthquake,16.4,3.9,0.165,10,reviewed,us,us
+2019-09-23T08:24:39.006Z,-36.0464,-73.84,10,5.3,mww,,71,0.874,0.72,us,us60005m4u,2019-10-13T12:14:04.394Z,"98km NW of Talcahuano, Chile",earthquake,4.8,1.8,0.062,25,reviewed,us,us
+2019-09-23T06:10:27.785Z,-5.0053,130.8329,51.38,4.2,mb,,132,2.508,0.42,us,us70005pe4,2019-10-12T12:04:44.040Z,"224km WNW of Tual, Indonesia",earthquake,12.9,9.4,0.152,12,reviewed,us,us
+2019-09-23T03:51:02.700Z,-20.6063,-174.2015,10,4.3,mb,,168,4.301,1.08,us,us70005pe0,2019-10-03T02:04:30.040Z,"90km S of Pangai, Tonga",earthquake,10.1,2,0.168,10,reviewed,us,us
+2019-09-23T00:40:31.228Z,3.6588,64.2136,10,4.3,mb,,83,9.321,0.69,us,us70005pe1,2019-10-04T05:16:00.040Z,"Carlsberg Ridge",earthquake,7.9,1.9,0.097,30,reviewed,us,us
+2019-09-22T23:24:19.289Z,-5.797,154.5195,176.85,4.5,mb,,67,2.837,0.78,us,us70005nyr,2019-10-01T04:14:12.040Z,"121km WNW of Arawa, Papua New Guinea",earthquake,9.6,7.5,0.071,58,reviewed,us,us
+2019-09-22T22:32:24.886Z,-6.8755,102.6096,10,5.1,mb,,124,2.522,0.88,us,us60005m1i,2019-09-22T23:22:17.040Z,"232km SW of Biha, Indonesia",earthquake,8.7,1.9,0.076,56,reviewed,us,us
+2019-09-22T22:22:35.546Z,2.8459,122.4327,528.05,4.2,mb,,76,2.385,0.39,us,us60005m1e,2019-09-22T23:48:36.040Z,"217km NNE of Kali, Indonesia",earthquake,6.6,13.9,0.147,13,reviewed,us,us
+2019-09-22T16:29:55.357Z,-18.1409,-178.2478,561.83,4.7,mb,,70,3.543,0.69,us,us60005lzs,2019-09-30T19:46:02.040Z,"281km N of Ndoi Island, Fiji",earthquake,10.8,8.2,0.027,399,reviewed,us,us
+2019-09-22T14:34:20.840Z,3.63,64.134,10,4.4,mb,,110,9.535,1.2,us,us70005nyi,2019-09-30T19:28:16.040Z,"Carlsberg Ridge",earthquake,7.5,1.9,0.309,5,reviewed,us,us
+2019-09-22T11:33:51.548Z,-59.9297,-27.5906,80.42,4.7,mb,,102,15.366,0.71,us,us70005nyk,2019-10-12T12:38:12.040Z,"116km SSW of Bristol Island, South Sandwich Islands",earthquake,9,7.4,0.118,22,reviewed,us,us
+2019-09-22T11:17:13.552Z,1.8648,93.7817,10,4.5,mb,,70,3.833,0.58,us,us60005lyw,2019-10-12T12:32:54.040Z,"296km WSW of Sinabang, Indonesia",earthquake,9.2,1.9,0.181,9,reviewed,us,us
+2019-09-22T09:58:54.208Z,-41.1061,174.8376,31.33,3.7,mwr,,79,0.226,0.72,us,us60005lyl,2019-10-12T12:25:58.984Z,"3km NNW of Porirua, New Zealand",earthquake,3.2,6.9,0.089,12,reviewed,us,us
+2019-09-22T08:58:54.599Z,-4.7072,155.0772,492.1,4.5,mb,,110,2.949,0.66,us,us60005lyh,2019-10-18T11:32:16.040Z,"174km NNW of Arawa, Papua New Guinea",earthquake,11.5,9.2,0.085,41,reviewed,us,us
+2019-09-22T07:32:33.536Z,-15.5539,-173.1401,10,5.6,mww,,60,4.656,0.67,us,us60005ly5,2019-10-17T13:01:10.571Z,"78km NE of Hihifo, Tonga",earthquake,5.6,1.7,0.073,18,reviewed,us,us
+2019-09-22T06:17:51.812Z,-28.2409,-178.4284,266.7,4.1,mb,,151,1.092,0.37,us,us70005ny4,2019-10-17T12:46:55.040Z,"124km NNW of Raoul Island, New Zealand",earthquake,14.8,7.8,0.13,16,reviewed,us,us
+2019-09-22T05:28:24.159Z,-14.6866,-73.5712,67.19,4.9,mb,,130,4.163,0.49,us,us60005lxn,2019-10-17T12:21:48.802Z,"39km ENE of Tambo, Peru",earthquake,2.6,7,0.06,88,reviewed,us,us
+2019-09-22T04:39:45.062Z,-58.5406,-24.7635,10,4.2,mb,,128,15.924,0.77,us,us70005nyb,2019-10-02T00:42:08.040Z,"115km ENE of Bristol Island, South Sandwich Islands",earthquake,12.3,2,0.2,7,reviewed,us,us
+2019-09-22T04:27:39.375Z,-22.2762,-179.464,586.9,4.4,mb,,108,5.076,0.56,us,us70005nxy,2019-10-02T00:31:09.040Z,"196km SSW of Ndoi Island, Fiji",earthquake,18.2,17.3,0.138,15,reviewed,us,us
+2019-09-22T01:25:18.469Z,-31.615,-176.2102,10,5.2,mb,,75,2.789,0.84,us,us60005lwe,2019-10-17T20:56:41.799Z,"256km E of L'Esperance Rock, New Zealand",earthquake,5.5,1.8,0.045,160,reviewed,us,us
+2019-09-21T23:11:38.128Z,-6.6025,130.6463,104.08,4.3,mb,,98,1.516,0.96,us,us60005lvd,2019-10-19T05:22:26.040Z,"166km NNW of Saumlaki, Indonesia",earthquake,9.4,9.4,0.147,13,reviewed,us,us
+2019-09-21T22:32:49.035Z,2.6102,95.7718,33.33,4.3,mb,,185,2.221,0.58,us,us60005lux,2019-10-19T04:12:28.040Z,"69km WNW of Sinabang, Indonesia",earthquake,7.9,4.8,0.096,31,reviewed,us,us
+2019-09-21T22:08:04.558Z,-10.7161,162.461,82.98,4.1,mb,,185,2.781,0.25,us,us70005ml5,2019-10-04T05:20:51.040Z,"65km ESE of Kirakira, Solomon Islands",earthquake,13.8,12.6,0.213,6,reviewed,us,us
+2019-09-21T21:32:33.692Z,5.4492,126.4512,53.51,4.9,mb,,90,1.828,0.86,us,us60005luq,2019-10-19T03:15:32.040Z,"103km ESE of Caburan, Philippines",earthquake,6.5,6.4,0.059,92,reviewed,us,us
+2019-09-21T19:53:13.451Z,-6.4592,130.4233,65,5.9,mww,,10,1.745,0.91,us,us60005lts,2019-10-19T02:23:10.316Z,"192km NNW of Saumlaki, Indonesia",earthquake,5.7,1.8,0.053,34,reviewed,us,us
+2019-09-21T19:46:21.365Z,-8.0559,130.5616,10,4.3,mb,,71,0.733,0.6,us,us70005ml0,2019-10-13T02:22:40.040Z,"84km W of Saumlaki, Indonesia",earthquake,5.9,1.9,0.188,8,reviewed,us,us
+2019-09-21T19:34:56.969Z,-33.8689,-178.9765,10,4.4,mb,,193,4.297,0.89,us,us60005lu3,2019-10-19T00:20:25.040Z,"270km S of L'Esperance Rock, New Zealand",earthquake,13.8,1.9,0.155,12,reviewed,us,us
+2019-09-21T18:48:16.165Z,-30.3403,-67.8277,68.08,4.6,mb,,55,1.409,1.09,us,us60005lt9,2019-09-24T15:45:54.970Z,"47km NW of San Agustin de Valle Fertil, Argentina",earthquake,7.9,4.4,0.157,13,reviewed,us,us
+2019-09-21T07:02:20.631Z,-17.8925,-175.0618,207.84,4.3,mb,,68,5.012,0.85,us,us70005mkc,2019-10-12T10:36:12.040Z,"141km NW of Neiafu, Tonga",earthquake,12,7.1,0.138,15,reviewed,us,us
+2019-09-21T06:12:31.846Z,-37.7992,-74.2918,26.18,4.1,mb,,197,1.216,0.35,us,us60005lpk,2019-10-11T13:01:08.040Z,"60km WSW of Lebu, Chile",earthquake,10.4,9.2,0.235,5,reviewed,us,us
+2019-09-21T04:25:25.142Z,-5.2356,125.2084,10,4.2,mb,,102,4.586,0.66,us,us70005mk4,2019-10-17T20:54:10.040Z,"216km SW of Leksula, Indonesia",earthquake,5.8,2,0.215,6,reviewed,us,us
+2019-09-21T01:00:30.129Z,-49.837,-111.7455,10,4.7,mb,,156,28.457,0.58,us,us70005mk0,2019-09-28T00:15:55.040Z,"Southern East Pacific Rise",earthquake,10.6,1.9,0.152,13,reviewed,us,us
+2019-09-21T00:36:06.714Z,-22.1422,-68.3663,98.33,4.5,mwr,,32,0.824,1.09,us,us60005lmx,2019-09-21T05:21:32.040Z,"68km ENE of Calama, Chile",earthquake,6.3,5.6,0.054,33,reviewed,us,us
+2019-09-20T23:16:06.286Z,-1.0237,128.5799,10,4.6,mb,,65,2.157,0.68,us,us60005lm7,2019-09-20T23:42:22.040Z,"107km ENE of Laiwui, Indonesia",earthquake,4.7,1.8,0.105,27,reviewed,us,us
+2019-09-20T21:46:04.176Z,-6.2368,151.8779,10,4.1,mb,,170,2.052,0.92,us,us70005mju,2019-09-28T04:09:13.040Z,"206km ESE of Kimbe, Papua New Guinea",earthquake,9.6,1.9,0.185,8,reviewed,us,us
+2019-09-20T21:35:18.974Z,-0.971,128.6609,10,4.4,mb,,115,2.161,1.04,us,us70005mjr,2019-09-28T05:16:24.040Z,"118km ENE of Laiwui, Indonesia",earthquake,5.9,1.9,0.162,11,reviewed,us,us
+2019-09-20T21:22:18.676Z,-8.372,116.6377,10,4.6,mb,,79,2.461,0.91,us,us60005lkp,2019-10-12T22:34:00.727Z,"5km W of Sambelia, Indonesia",earthquake,7.3,1.9,0.158,12,reviewed,us,us
+2019-09-20T21:10:05.058Z,-18.9887,-172.2875,10,4.6,mb,,140,11.964,0.45,us,us70005mjz,2019-09-28T04:01:31.040Z,"182km ESE of Neiafu, Tonga",earthquake,11.6,1.8,0.122,20,reviewed,us,us
+2019-09-20T21:09:23.895Z,-18.3029,-172.1218,10,4.3,mb,,189,2.218,0.97,us,us70005mjq,2019-09-28T05:11:20.040Z,"200km E of Neiafu, Tonga",earthquake,8.4,2,0.153,12,reviewed,us,us
+2019-09-20T20:59:15.378Z,-0.9455,128.6576,10,5,mww,,27,2.139,0.74,us,us60005lk6,2019-09-21T15:50:25.040Z,"118km ENE of Laiwui, Indonesia",earthquake,6.8,1.8,0.073,18,reviewed,us,us
+2019-09-20T19:49:29.948Z,-23.6408,-179.664,531.2,4.6,mb,,108,6.243,0.81,us,us60005liv,2019-09-21T14:37:23.040Z,"South of the Fiji Islands",earthquake,12.3,9.5,0.087,44,reviewed,us,us
+2019-09-20T18:20:07.653Z,-17.3343,166.9532,10,5.4,mb,,66,1.891,0.94,us,us60005lhn,2019-09-21T18:22:11.289Z,"143km SSW of Lakatoro, Vanuatu",earthquake,6.2,1.8,0.037,255,reviewed,us,us
+2019-09-20T16:33:52.935Z,-28.53,-71.4979,43.4,4.5,mwr,,182,0.494,0.66,us,us60005lg4,2019-09-21T04:47:45.771Z,"72km W of Vallenar, Chile",earthquake,4.6,10.8,,,reviewed,us,guc
+2019-09-20T14:55:37.671Z,-26.2348,-177.6557,84.31,4.5,mb,,110,9.338,0.93,us,us70005mjf,2019-10-12T07:54:00.040Z,"South of the Fiji Islands",earthquake,13.1,6.6,0.131,17,reviewed,us,us
+2019-09-20T13:15:30.685Z,-7.0104,106.1703,72.17,4.5,mb,,122,4.142,0.38,us,us70005mje,2019-10-12T07:14:45.040Z,"11km SW of Ciwaru, Indonesia",earthquake,14.5,10.5,0.181,9,reviewed,us,us
+2019-09-20T13:05:55.155Z,-18.3152,-172.7837,10,4.5,mb,,99,2.811,0.56,us,us70005mjc,2019-10-12T06:13:10.040Z,"132km ENE of Neiafu, Tonga",earthquake,6.1,1.9,0.163,11,reviewed,us,us
+2019-09-20T12:32:34.752Z,-18.1823,-172.0899,10,4.6,mb,,102,2.235,0.3,us,us70005mja,2019-10-18T11:38:24.040Z,"206km ENE of Neiafu, Tonga",earthquake,8.8,1.9,0.128,19,reviewed,us,us
+2019-09-20T09:19:12.712Z,-18.3109,-172.4619,10,5.1,mb,,51,19.302,0.73,us,us60005l9u,2019-10-18T12:29:11.040Z,"165km ENE of Neiafu, Tonga",earthquake,14,1.8,0.032,322,reviewed,us,us
+2019-09-20T09:13:40.084Z,-18.3026,-172.5078,10,5.3,mww,,40,4.424,0.83,us,us60005l9s,2019-10-17T09:38:12.040Z,"160km ENE of Neiafu, Tonga",earthquake,8.1,1.7,0.073,18,reviewed,us,us
+2019-09-20T08:00:14.056Z,-18.2989,-172.0986,10,5,mb,,68,2.198,0.76,us,us60005l8v,2019-10-11T12:42:06.040Z,"202km E of Neiafu, Tonga",earthquake,5.7,1.9,0.101,31,reviewed,us,us
+2019-09-20T06:58:05.399Z,-45.5282,96.2794,10,4.2,mb,,105,15.952,0.54,us,us70005miy,2019-10-11T12:33:58.040Z,"Southeast Indian Ridge",earthquake,16,1.9,0.146,13,reviewed,us,us
+2019-09-20T05:33:49.532Z,-16.495,-71.8632,127.52,4.2,mb,,145,2.526,1.08,us,us70005mix,2019-10-11T12:29:20.040Z,"33km SW of Yura, Peru",earthquake,9.1,8.8,0.186,8,reviewed,us,us
+2019-09-20T05:28:25.208Z,-18.2546,-172.1014,10,5.1,mww,,69,2.217,0.69,us,us60005l72,2019-10-11T12:25:46.327Z,"203km ENE of Neiafu, Tonga",earthquake,9.3,1.9,0.073,18,reviewed,us,us
+2019-09-20T01:59:17.592Z,-31.3116,-177.628,10,4.8,mb,,129,2.076,0.98,us,us60005l6a,2019-10-17T20:35:08.040Z,"121km E of L'Esperance Rock, New Zealand",earthquake,8.4,1.9,0.124,20,reviewed,us,us
+2019-09-20T00:12:50.314Z,-26.4034,179.6142,499.17,4.4,mb,,140,3.57,0.63,us,us70005mit,2019-09-28T05:04:36.040Z,"South of the Fiji Islands",earthquake,9.8,10.3,0.12,20,reviewed,us,us
+2019-09-19T23:59:40.634Z,-4.9915,151.6239,138.12,5,mww,,32,0.96,0.89,us,us60005l5f,2019-10-12T23:00:47.040Z,"100km SW of Kokopo, Papua New Guinea",earthquake,7.7,4.5,0.071,19,reviewed,us,us
+2019-09-19T23:43:31.258Z,-17.9171,-178.3567,597.94,4.1,mb,,81,3.424,1.04,us,us70005mff,2019-09-28T04:55:44.040Z,"292km SE of Lambasa, Fiji",earthquake,12,5,0.059,78,reviewed,us,us
