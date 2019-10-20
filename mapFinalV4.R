@@ -97,7 +97,16 @@ ui <- fluidPage(
   mainPanel( 
     #this will create a space for us to display our map
     fluidRow(
-      splitLayout(cellWidths = c("50%", "50%"), leafletOutput(outputId = "mymap"), plotOutput("phonePlot")
+      #splitLayout(cellWidths = c("50%", "50%"), leafletOutput(outputId = "mymap"), plotOutput("phonePlot")
+      #splitLayout(cellWidths = c("33%", "33%", "33%"), leafletOutput(outputId = "mymap"), checkboxInput("markers", "Depth", FALSE), plotOutput("phonePlot")
+      splitLayout(cellWidths = c("33%", "33%", "33%"), leafletOutput(outputId = "mymap"), sidebarPanel (
+        checkboxInput("markers", "Carbon Monoxide", TRUE),
+        checkboxInput("markers", "Nitrogen Dioxide", FALSE),
+        checkboxInput("markers", "Ozone", FALSE),
+        checkboxInput("markers", "Sulfur Dioxide", FALSE)
+        
+        
+        ), plotOutput("phonePlot")
                   
       )
       # leafletOutput(outputId = "mymap")
@@ -173,11 +182,11 @@ server <- function(input, output) {#define the color pallate for the magnitidue 
   #png(file = "barchart_months_revenue.png")
   
   # Plot the bar chart 
-  #lifePlotC <- barplot(carbonMonoxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)",col="blue",
-  #                     main="Carbon Monoxide Pollution in LA",border="red")
+  lifePlotC <- barplot(carbonMonoxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)",col="blue",
+                       main="Carbon Monoxide Pollution in LA",border="red")
   
-  #lifePlotNO2 <- barplot(nitrogenDioxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)", ylim = c(0, 15), col="blue",
-  #                       main="Nitrogen Dioxide Pollution in LA",border="red")
+  lifePlotNO2 <- barplot(nitrogenDioxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)", ylim = c(0, 15), col="blue",
+                        main="Nitrogen Dioxide Pollution in LA",border="red")
   
   #lifePlotO2 <- barplot(ozoneData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)", ylim = c(0, 0.025), col="blue",
   #                      main="Ozone Pollution in LA",border="red")
@@ -190,11 +199,18 @@ server <- function(input, output) {#define the color pallate for the magnitidue 
   ########################################################################################################################################
   
   # Fill in the spot we created for a plot
-  output$phonePlot <- renderPlot({
-    
+  output$phonePlot <- renderPlot ({
     # Render a barplot
     barplot(carbonMonoxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)",col="blue",
             main="Carbon Monoxide Pollution in LA",  ylim = c(0, 15), border="red")
+    #barplot(lifePlotC)
+    })
+  
+  output$phonePlot <- renderPlot({
+    # Render a barplot
+    barplot(nitrogenDioxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)", ylim = c(0, 15), col="blue",
+            main="Nitrogen Dioxide Pollution in LA",border="red")
+    #barplot(lifePlotC)
   })
   
 }
