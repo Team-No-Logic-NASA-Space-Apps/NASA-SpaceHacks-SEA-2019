@@ -1,6 +1,10 @@
 # NASA-SpaceHacks-SEA-2019
 For our team  "No Logic".._.
 
+![Demo](img/demo.png)
+
+
+
 ## Our final R file is mapFinalV4.R
 
 Website: https://www.spaceappschallenge.org/
