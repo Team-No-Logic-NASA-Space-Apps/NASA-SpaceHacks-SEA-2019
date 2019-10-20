@@ -1,7 +1,7 @@
 # NASA-SpaceHacks-SEA-2019
 For our team  "No Logic".._.
 
-## Demo Image
+## Demo Images
 
 ![Demo](carbonMonoxide.png)
 ![Demo](nitrogen.png)
