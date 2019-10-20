@@ -94,6 +94,22 @@ ui <- fluidPage(
   #hist(x[y==0], col="dodgerblue", breaks=5, ylim=c(0,0.04),
   #xlim=c(0,100), main=title0, xlab="Percentage", ylab="Rel. Freq.", prob=T)
   #   ),
+  #mainPanel( 
+    #this will create a space for us to display our map
+   # fluidRow(
+    #  splitLayout(cellWidths = c("33%", "33%", "33%"), leafletOutput(outputId = "mymap"), sidebarPanel (
+    #    checkboxInput("markers", "Carbon Monoxide", TRUE),
+    #    checkboxInput("markers", "Nitrogen Dioxide", FALSE),
+    #    checkboxInput("markers", "Ozone", FALSE),
+    #    checkboxInput("markers", "Sulfur Dioxide", FALSE)
+        
+        
+     #   ), plotOutput("phonePlot")
+                  
+    #  )
+    #) 
+#  )
+  
   mainPanel( 
     #this will create a space for us to display our map
     fluidRow(
@@ -106,21 +122,10 @@ ui <- fluidPage(
         checkboxInput("markers", "Sulfur Dioxide", FALSE)
         
         
-        ), plotOutput("phonePlot")
-                  
-      )
-      # leafletOutput(outputId = "mymap")
-      
-      
-      
-    ) #,
-    # Create a spot for the barplot
-    #sidebarPanel(
-    
-    
-    #   plotOutput("phonePlot")
-    #)
+      ), plotOutput("phonePlot"))
+    ) 
   )
+
 )
 
 test = data$mag
@@ -154,6 +159,36 @@ server <- function(input, output) {#define the color pallate for the magnitidue 
     #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
     #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*100, popup = ~as.character(AOD3), label = ~as.character(paste0("Chemical: ", sep = " ", AOD3)),  fillOpacity = 0.5)
     addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*100, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+    #  addCircles(data = dat,  lat = ~ longitude_AIR, lng = ~ latitude_AIR, weight = 1, radius = ~sqrt(measurement_AIR + 15)*100, popup = ~as.character(measurement_AIR), label = ~as.character(paste0("Chemical: ", sep = " ", measurement_AIR)),  fillOpacity = 0.5)
+    
+    #}
+    #pt1 <- reactive({
+    #  barplot(carbonMonoxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)",col="blue",
+    #           main="Carbon Monoxide Pollution in LA",border="red")
+  })
+  
+  output$mymap <- renderLeaflet({
+    leaflet(dat) %>% 
+      setView(lng = -118, lat = 34, zoom = 10)  %>% #setting the view over ~ center of North America
+      #setView(lng = 0, lat = 0, zoom = 6)  %>% #setting the view over ~ center of North America
+      
+      addTiles() %>% 
+      #  for(i in seq(from=1, to=10, by=1)) {
+      #print(paste("i is ", i))
+      
+      #pollutionMeanArray[i] <- mean(AOD3[YYYY==(2000 + i) & MM >= 0 & MM < 12])
+      #pollutionMeanArray[i]
+      #pollutionMeanArray[i + 1] <- 1
+      #addCircles(data = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(mag)*25000, popup = ~as.character(mag), label = ~as.character(paste0("Magnitude: ", sep = " ", mag)),  fillOpacity = 0.5)
+      #addCircles(dat = dat, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(test)*25000, popup = ~as.character(test), label = ~as.character(paste0("Magnitude: ", sep = " ", test)),  fillOpacity = 0.5)
+      #addCircles(data = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(test)*25000, popup = ~as.character(test), label = ~as.character(paste0("Magnitude: ", sep = " ", test)),  fillOpacity = 0.5)
+      #addCircles(dat = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = 30000, popup = ~as.character(mag), label = ~as.character(paste0("Magnitude: ", sep = " ", mag)),  fillOpacity = 0.5)
+      #addCircles(data = dat, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = 30000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+    
+    #addCircles(data = dat, lat = 0, lng = 0, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+    #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+    #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*100, popup = ~as.character(AOD3), label = ~as.character(paste0("Chemical: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+    addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*10000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
     #  addCircles(data = dat,  lat = ~ longitude_AIR, lng = ~ latitude_AIR, weight = 1, radius = ~sqrt(measurement_AIR + 15)*100, popup = ~as.character(measurement_AIR), label = ~as.character(paste0("Chemical: ", sep = " ", measurement_AIR)),  fillOpacity = 0.5)
     
     #}
@@ -202,11 +237,11 @@ server <- function(input, output) {#define the color pallate for the magnitidue 
   output$phonePlot <- renderPlot ({
     # Render a barplot
     barplot(carbonMonoxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)",col="blue",
-            main="Carbon Monoxide Pollution in LA",  ylim = c(0, 15), border="red")
+            main="Carbon Monoxide Pollution in LA",  ylim = c(0, 0.6), border="red")
     #barplot(lifePlotC)
     })
   
-  output$phonePlot <- renderPlot({
+  output$phonePlot2 <- renderPlot({
     # Render a barplot
     barplot(nitrogenDioxideData,names.arg=year,xlab="Local Time",ylab="pollution (ppm)", ylim = c(0, 15), col="blue",
             main="Nitrogen Dioxide Pollution in LA",border="red")
