@@ -3,7 +3,10 @@ For our team  "No Logic".._.
 
 ## Demo Image
 
-![Demo](demo.png)
+![Demo](carbonMonoxide.png)
+![Demo](nitrogen.png)
+![Demo](ozone.png)
+![Demo](sulfurDioxide.png)
 
 
 
