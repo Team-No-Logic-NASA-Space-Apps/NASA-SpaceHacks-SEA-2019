@@ -12,6 +12,7 @@ library(shiny)
 library(leaflet)
 library(dplyr)
 library(leaflet.extras)
+library(ggplot2)
 
 getwd()
 list.files()
@@ -47,23 +48,34 @@ ui <- fluidPage(
     
     # Application title
     titlePanel("Air Pollution Data in Los Angeles, CA"),
-    
+    sidebarPanel(
+        
+        plot(YYYY, AOD3)
+        #hist(YYYY, AUD3)
+        #hist(x[y==0], col="dodgerblue", breaks=5, ylim=c(0,0.04),
+             #xlim=c(0,100), main=title0, xlab="Percentage", ylab="Rel. Freq.", prob=T)
+        ),
     mainPanel( 
         #this will create a space for us to display our map
         leafletOutput(outputId = "mymap"), 
         #this allows me to put the checkmarks ontop of the map to allow people to view earthquake depth or overlay a heatmap
         absolutePanel(top = 60, left = 20
-        )
+        #plot(YYYY, AOD3)
+        
+    )
     ))
 
 test = data$mag
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {#define the color pallate for the magnitidue of the earthquake
+    p1 = qplot(YYYY, AOD3, data = dat,
+               xlab = 'Car weight', ylab = 'Mileage')
+    print(p1)
     #create the map
     output$mymap <- renderLeaflet({
         leaflet(dat) %>% 
-            setView(lng = -118, lat = 34, zoom = 6)  %>% #setting the view over ~ center of North America
+            setView(lng = -118, lat = 34, zoom = 10)  %>% #setting the view over ~ center of North America
             #setView(lng = 0, lat = 0, zoom = 6)  %>% #setting the view over ~ center of North America
             
             addTiles() %>% 
@@ -75,8 +87,9 @@ server <- function(input, output) {#define the color pallate for the magnitidue 
         
             #addCircles(data = dat, lat = 0, lng = 0, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
             #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
-            addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*1000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
-        
+            addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*100, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+            #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*100, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+            
         })
 }
 
