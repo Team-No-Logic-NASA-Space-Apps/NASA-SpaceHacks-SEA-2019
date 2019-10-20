@@ -39,5 +39,36 @@ plot(YYYY, mean(AOD3))
 # group years, take an average.
 ## do by month
 
+year = 2000:2019
+
+# ar = c(YYYY[2000:2019])
+ar = array(YYYY[2000:2019])
+
+pollution2000 = mean(AOD3[YYYY==2000 & MM >= 0 & MM < 12])
+pollution2001 = mean(AOD3[YYYY==2001 & MM >= 0 & MM < 12])
+pollution2002 = mean(AOD3[YYYY==2002 & MM >= 0 & MM < 12])
+pollution2003 = mean(AOD3[YYYY==2003 & MM >= 0 & MM < 12])
+pollutionSeq2 = c(pollution2000, pollution2001, pollution2002, pollution2003)
+plot(YYYY[2000:2003], pollutionSeq2, las = 1)
+
+
+pollutionSeq = c(pollution2000, pollution2001)
+plot(YYYY[2000:2001], pollutionSeq, las = 1, xlim=c(2000, 2001))
+plot(YYYY[2000:2001], pollutionSeq, las = 1)
+
+pollution2000
+
+pollution2019 = mean(AOD3[YYYY==2019 & MM >= 0 & MM < 12])
+pollution2019
+
+A <- array(1: 24, dim = c(3, 4, 2))
+
+pollutionMean <- array(mean(AOD3[YYYY==2000:2019 & MM >= 0 & MM < 12]))
+plot(year, )
+mean(x[y==0])
+
+for (year in c(2010,2011,2012,2013,2014,2015)){
+  print(paste("The year is", year))
+}
 
 
