@@ -18,7 +18,7 @@ list.files()
 setwd("/home/toreshi/school/UW-TAC/Fall-19/NASA Hackathon/mapMergeV2")
 list.files()
 
-#dat <- read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach-EDITED.MYD04.csv", heoder=T")
+#data <- read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach-EDITED.MYD04.csv", header=T)
 
 #data = read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach.MOD04.csv", header=T)
 dat = read.csv("US_LosAngeles-LongBeach-SantaAna_SouthLongBeach.MOD04.csv", header=T)
@@ -62,12 +62,20 @@ test = data$mag
 server <- function(input, output) {#define the color pallate for the magnitidue of the earthquake
     #create the map
     output$mymap <- renderLeaflet({
-        leaflet(data) %>% 
+        leaflet(dat) %>% 
             setView(lng = -118, lat = 34, zoom = 6)  %>% #setting the view over ~ center of North America
+            #setView(lng = 0, lat = 0, zoom = 6)  %>% #setting the view over ~ center of North America
+            
             addTiles() %>% 
             #addCircles(data = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(mag)*25000, popup = ~as.character(mag), label = ~as.character(paste0("Magnitude: ", sep = " ", mag)),  fillOpacity = 0.5)
         #addCircles(dat = dat, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(test)*25000, popup = ~as.character(test), label = ~as.character(paste0("Magnitude: ", sep = " ", test)),  fillOpacity = 0.5)
-        addCircles(data = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(test)*25000, popup = ~as.character(test), label = ~as.character(paste0("Magnitude: ", sep = " ", test)),  fillOpacity = 0.5)
+        #addCircles(data = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = ~sqrt(test)*25000, popup = ~as.character(test), label = ~as.character(paste0("Magnitude: ", sep = " ", test)),  fillOpacity = 0.5)
+        #addCircles(dat = data, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = 30000, popup = ~as.character(mag), label = ~as.character(paste0("Magnitude: ", sep = " ", mag)),  fillOpacity = 0.5)
+        #addCircles(data = dat, lat = ~ latitude, lng = ~ longitude, weight = 1, radius = 30000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+        
+            #addCircles(data = dat, lat = 0, lng = 0, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+            #addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = 100000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
+            addCircles(data = dat,  lat = ~ longitude, lng = ~ latitude, weight = 1, radius = ~sqrt(test)*1000, popup = ~as.character(AOD3), label = ~as.character(paste0("Magnitude: ", sep = " ", AOD3)),  fillOpacity = 0.5)
         
         })
 }
