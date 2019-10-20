@@ -136,5 +136,14 @@ datAir = read.csv("AirQualitySystem.csv", header=T)
 
 names(datAir)
 
+strcmpi((datAir$Parameter.Name=="Beryllium"),"FALSE")
+
+be = datAir$Parameter.Name=="Beryllium"
+
+state = datAir$State.Code
+
+time = datAir$Time.Local
+
+latAir = datAir$Latitude
 
 
