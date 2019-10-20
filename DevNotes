@@ -1,0 +1,20 @@
+Map:
+  plots singular data point of (as one source is shown at a time)
+  - ideally, size increase with pollution increase and color turns red for higher pollution.
+  
+Selectors:
+ - Selects what data to plot from dataset
+ - Only ONE selector can be plotted at a time.
+ 
+ Year Slider:
+  - Changes the date of the dot plotted on the map. 
+
+Plot:
+ - Shows long term trend of data (graphs ALL of the given data for the selector
+  - [ALL DATA throught ALL YEARS on that pollution element])
+ - For now, we only have bar charts.
+ - Ideally, they could select multiple graph types (line plot/ bar chart / etc...)
+ 
+ Is a Web APP w/ touch screen support.
+ 
+ Try to host it in cloud.
