@@ -1,40 +1,40 @@
-17147,6,34.06659,-118.22688,WGS84,Acenaphthene (TSP) STP,1/2/18,00:00,1/2/18,08:00,10.7,Nanograms/cubic meter (25 C),0.0872,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17148,6,34.06659,-118.22688,WGS84,Acenaphthylene (TSP) STP,1/2/18,00:00,1/2/18,08:00,1.85,Nanograms/cubic meter (25 C),0.0139,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17151,6,34.06659,-118.22688,WGS84,Anthracene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.704,Nanograms/cubic meter (25 C),0.0334,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-12102,7,34.06659,-118.22688,WGS84,Antimony (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.0151,Micrograms/cubic meter (25 C),1.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-12103,7,34.06659,-118.22688,WGS84,Arsenic (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00087,Micrograms/cubic meter (25 C),1.74,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-17215,6,34.06659,-118.22688,WGS84,Benzo[a]anthracene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.196,Nanograms/cubic meter (25 C),0.0139,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17242,6,34.06659,-118.22688,WGS84,Benzo[a]pyrene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.184,Nanograms/cubic meter (25 C),0.0223,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17220,6,34.06659,-118.22688,WGS84,Benzo[b]fluoranthene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.469,Nanograms/cubic meter (25 C),0.0278,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17224,6,34.06659,-118.22688,WGS84,Benzo[e]pyrene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.252,Nanograms/cubic meter (25 C),0.0223,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17237,6,34.06659,-118.22688,WGS84,"Benzo[g,h,i]perylene (TSP) STP",1/2/18,00:00,1/2/18,08:00,0.42,Nanograms/cubic meter (25 C),0.0213,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17223,6,34.06659,-118.22688,WGS84,Benzo[k]fluoranthene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.101,Nanograms/cubic meter (25 C),0.0278,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-12105,7,34.06659,-118.22688,WGS84,Beryllium (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.152,Nanograms/cubic meter (25 C),0.304,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-12110,7,34.06659,-118.22688,WGS84,Cadmium (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00065,Micrograms/cubic meter (25 C),1.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-42101,2,34.14435,-117.85036,WGS84,Carbon monoxide,1/1/18,00:00,1/1/18,08:00,0.5,Parts per million,0.5,,,FRM,INSTRUMENTAL - NONDISPERSIVE INFRARED PHOTOMETRY,California,Los Angeles,6/15/18
-42101,2,34.14435,-117.85036,WGS84,Carbon monoxide,1/2/18,00:00,1/2/18,08:00,0.3,Parts per million,0.5,,,FRM,INSTRUMENTAL - NONDISPERSIVE INFRARED PHOTOMETRY,California,Los Angeles,6/15/18
-12112,7,34.06659,-118.22688,WGS84,Chromium (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.01,Micrograms/cubic meter (25 C),8.51,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-12115,1,34.06659,-118.22688,WGS84,Chromium VI (TSP) STP,1/2/18,00:00,1/2/18,08:00,0,Micrograms/cubic meter (25 C),0.02,,,Non-FRM,LO-VOL-XONTECH 920 or 924 - ION CHROMATOGRAPH UV VISIBLE,California,Los Angeles,9/4/19
-12115,4,34.06659,-118.22688,WGS84,Chromium VI (TSP) STP,1/2/18,00:00,1/2/18,08:00,0,Micrograms/cubic meter (25 C),0.004,,,Non-FRM,LO-VOL-XONTECH 920 or 924 - ION CHROMATOGRAPH UV VISIBLE,California,Los Angeles,6/27/18
-17208,6,34.06659,-118.22688,WGS84,Chrysene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.338,Nanograms/cubic meter (25 C),0.0167,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-12113,7,34.06659,-118.22688,WGS84,Cobalt (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00065,Micrograms/cubic meter (25 C),1.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-17211,6,34.06659,-118.22688,WGS84,Coronene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.29,Nanograms/cubic meter (25 C),0.00371,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17231,6,34.06659,-118.22688,WGS84,"Dibenzo[a,h]anthracene (TSP) STP",1/2/18,00:00,1/2/18,08:00,0.04,Nanograms/cubic meter (25 C),0.0148,,SQ,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17201,6,34.06659,-118.22688,WGS84,Fluoranthene (TSP) STP,1/2/18,00:00,1/2/18,08:00,2.36,Nanograms/cubic meter (25 C),0.0325,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17149,6,34.06659,-118.22688,WGS84,Fluorene (TSP) STP,1/2/18,00:00,1/2/18,08:00,9.1,Nanograms/cubic meter (25 C),0.0483,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17243,6,34.06659,-118.22688,WGS84,"Indeno[1,2,3-cd]pyrene (TSP) STP",1/2/18,00:00,1/2/18,08:00,0.31,Nanograms/cubic meter (25 C),0.0232,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-14129,2,34.06659,-118.22688,WGS84,Lead (TSP) LC,1/2/18,00:00,1/2/18,08:00,0.014,Micrograms/cubic meter (LC),0.00005,,,FEM,Hi-Vol - ICAP SPECTRA (ICP-MS); 0.45M HNO3 Boil30 min,California,Los Angeles,6/14/18
-12128,7,34.06659,-118.22688,WGS84,Lead (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00905,Micrograms/cubic meter (25 C),1.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-12132,7,34.06659,-118.22688,WGS84,Manganese (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.0308,Micrograms/cubic meter (25 C),1.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-17141,6,34.06659,-118.22688,WGS84,Naphthalene (TSP) STP,1/2/18,00:00,1/2/18,08:00,175,Nanograms/cubic meter (25 C),1.9,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-12136,7,34.06659,-118.22688,WGS84,Nickel (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00325,Micrograms/cubic meter (25 C),1.91,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-42602,1,34.14435,-117.85036,WGS84,Nitrogen dioxide (NO2),1/1/18,00:00,1/1/18,08:00,11.9,Parts per billion,1,,,FRM,INSTRUMENTAL - CHEMILUMINESCENCE,California,Los Angeles,6/15/18
-42602,1,34.14435,-117.85036,WGS84,Nitrogen dioxide (NO2),1/2/18,00:00,1/2/18,08:00,9.4,Parts per billion,1,,,FRM,INSTRUMENTAL - CHEMILUMINESCENCE,California,Los Angeles,6/15/18
-44201,1,34.14435,-117.85036,WGS84,Ozone,1/1/18,00:00,1/1/18,08:00,0.017,Parts per million,0.005,,,FEM,INSTRUMENTAL - ULTRA VIOLET,California,Los Angeles,6/15/18
-44201,1,34.14435,-117.85036,WGS84,Ozone,1/2/18,00:00,1/2/18,08:00,0.021,Parts per million,0.005,,,FEM,INSTRUMENTAL - ULTRA VIOLET,California,Los Angeles,6/15/18
-17212,6,34.06659,-118.22688,WGS84,Perylene (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.0346,Nanograms/cubic meter (25 C),0.0111,,SQ,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17150,6,34.06659,-118.22688,WGS84,Phenanthrene (TSP) STP,1/2/18,00:00,1/2/18,08:00,12.7,Nanograms/cubic meter (25 C),0.166,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-17204,6,34.06659,-118.22688,WGS84,Pyrene (TSP) STP,1/2/18,00:00,1/2/18,08:00,1.63,Nanograms/cubic meter (25 C),0.0195,,,Non-FRM,Hi Vol/PUF-XAD-2 - GCMS TO-13,California,Los Angeles,5/31/18
-12154,7,34.06659,-118.22688,WGS84,Selenium (TSP) STP,1/2/18,00:00,1/2/18,08:00,0.00165,Micrograms/cubic meter (25 C),3.3,,,Non-FRM,"Lo-Vol-Xontech 920 or 924, Teflon - ICP/Mass Spectrometer",California,Los Angeles,4/25/19
-42401,9,34.06659,-118.22688,WGS84,Sulfur dioxide,1/1/18,00:00,1/1/18,08:00,0.2,Parts per billion,0.2,,,FEM,INSTRUMENTAL - Pulsed Fluorescent 43C-TLE/43i-TLE,California,Los Angeles,6/21/18
-42401,9,34.06659,-118.22688,WGS84,Sulfur dioxide,1/2/18,00:00,1/2/18,08:00,0.2,Parts per billion,0.2,,,FEM,INSTRUMENTAL - Pulsed Fluorescent 43C-TLE/43i-TLE,California,Los Angeles,6/21/18
+State Code,County Code,Site Number,ParameterCode,POC,Latitude,Longitude,Datum,Parameter Name,Date Local,Time Local,Date GMT,Time GMT,Sample Measurement,Unit of Measure,Detection Limit,Uncertainty,Qualifiers,Method Type,Method Code,Method Name,State Name,County Name,Date of Last Change
+6,37,16,42101,2,34.14435,-117.85036,WGS84,Carbon monoxide,1/1/18,00:00,1/1/18,08:00,0.5,Parts per million,0.5,,,FRM,158,INSTRUMENTAL - NONDISPERSIVE INFRARED PHOTOMETRY,California,Los Angeles,6/15/18
+6,37,16,42101,2,34.14435,-117.85036,WGS84,Carbon monoxide,1/2/18,00:00,1/2/18,08:00,0.3,Parts per million,0.5,,,FRM,158,INSTRUMENTAL - NONDISPERSIVE INFRARED PHOTOMETRY,California,Los Angeles,6/15/18
+6,37,16,42602,1,34.14435,-117.85036,WGS84,Nitrogen dioxide (NO2),1/1/18,00:00,1/1/18,08:00,11.9,Parts per billion,1,,,FRM,74,INSTRUMENTAL - CHEMILUMINESCENCE,California,Los Angeles,6/15/18
+6,37,16,42602,1,34.14435,-117.85036,WGS84,Nitrogen dioxide (NO2),1/2/18,00:00,1/2/18,08:00,9.4,Parts per billion,1,,,FRM,74,INSTRUMENTAL - CHEMILUMINESCENCE,California,Los Angeles,6/15/18
+6,37,16,44201,1,34.14435,-117.85036,WGS84,Ozone,1/1/18,00:00,1/1/18,08:00,0.017,Parts per million,0.005,,,FEM,47,INSTRUMENTAL - ULTRA VIOLET,California,Los Angeles,6/15/18
+6,37,16,44201,1,34.14435,-117.85036,WGS84,Ozone,1/2/18,00:00,1/2/18,08:00,0.021,Parts per million,0.005,,,FEM,47,INSTRUMENTAL - ULTRA VIOLET,California,Los Angeles,6/15/18
+6,37,1103,42401,9,34.06659,-118.22688,WGS84,Sulfur dioxide,1/1/18,00:00,1/1/18,08:00,0.2,Parts per billion,0.2,,,FEM,560,INSTRUMENTAL - Pulsed Fluorescent 43C-TLE/43i-TLE,California,Los Angeles,6/21/18
+6,37,1103,42401,9,34.06659,-118.22688,WGS84,Sulfur dioxide,1/2/18,00:00,1/2/18,08:00,0.2,Parts per billion,0.2,,,FEM,560,INSTRUMENTAL - Pulsed Fluorescent 43C-TLE/43i-TLE,California,Los Angeles,6/21/18
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
