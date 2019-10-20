@@ -1,7 +1,7 @@
 # NASA-SpaceHacks-SEA-2019
 For our team  "No Logic".._.
 
-![Demo](img/demo.png)
+![Demo](demo.png)
 
 
 
